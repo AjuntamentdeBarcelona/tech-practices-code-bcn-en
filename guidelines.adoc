@@ -1,0 +1,21 @@
+= Guidelines for designing and implementing digital services
+
+The following guidelines, divided into three areas, must be followed when designing and implementing digital services:
+
+. *Agile Methodologies*
+. *Technological sovereignty*
+. *Responsible data management and open data*
+
+It is the responsibility of both the IMI and the business units that make up the City Council to follow these guidelines in projects implemented by and for Barcelona City Council.
+
+== Agile Projects
+
+To meet the objective of implementing Agile Methodologies ...
+
+== Technological sovereignty
+
+To meet the objective of technological sovereignty ...
+
+== Responsible and ethical data management
+
+To meet the objective of responsible and ethical data management ...

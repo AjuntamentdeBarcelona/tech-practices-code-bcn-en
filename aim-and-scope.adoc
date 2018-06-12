@@ -1,0 +1,42 @@
+= Aim and scope
+
+== Aim
+
+This document constitutes the Code of Technological Practices which sets out the agile digital transformation strategy for Barcelona City Council, in a practical format and under the city’s digital services standards issued in September 2017.
+
+This Code consists mainly of a list of clear and direct principles and requirements, enabling a rapid understanding of the various elements of the digital transformation being carried out in Barcelona.
+It aims to enable those in charge of governance and management of digital service projects to ensure that they are in line with Barcelona City Council’s strategy in this area.
+
+The Code is designed to be a practical reference document and does not contain theoretical justifications for the policies proposed or references to examples, except in a few cases.
+
+The specific guidelines are based on the best practices of various other countries and contexts.
+The United Kingdom, the United States, Sweden and the Netherlands, among many other places, have implemented innovative state-level policies on open technologies and agile developments.
+
+== Scope and application
+
+This Code of Technological Practices applies to the management and governance of technology and innovation projects carried out within the agile digital transformation Plan, not only for the Municipal Institute of Information Technology (IMI) but also for other entities and departments that are accountable to Barcelona City Council.
+It also covers the design and construction of all the City Council’s digital services, understood as services for the management and delivery of information through digital platforms and devices.
+
+It is aimed at all the leaders and managers of the municipal group’s business units, programme administrators and staff involved in putting this strategy into action.
+Those in charge of each management office are ultimately responsible for ensuring that the strategy guidelines and this Code are implemented.
+These principles and guidelines will be put into operation through performance of the City Council’s agile digital transformation projects, which are largely managed by the IMI.
+These projects will enable resources to be dedicated, infrastructures to be created and skills to be acquired for carrying out these transformations.
+So changes involved in the application of these practices within the City Council will be managed in an iterative way through specific projects.
+Some of the projects and their extensions (e.g. Decidim. Barcelona, Sentilo, BIMA) already comply in good measure with the guidelines outlined here, while others will gradually do so in a more progressive manner.
+
+== Structure
+
+The document is divided up into a set of general principles, backed by the guidelines that correspond to the three main cornerstones of Barcelona City Council's agile digital transformation strategy.
+
+* The development of agile digital services
+
+* Technological sovereignty, based on the use of open standards and free software
+
+* The ethical and secure management of data and open data policies
+
+
+This document complements but does not replace any of the organisation’s policies or regulations, municipal or otherwise.
+
+This Code of Technological Practices is accompanied by two supporting documents to promote the Agile Digital Transformation Plan: The Agile Methodologies Guide and the Technological Sovereignty Guide.
+In addition, the Plan is being implemented through the City Council’s Procurement Guides, particularly the Technology Procurement Guide and the Innovative Procurement Guide.
+As for responsible and ethical data management, a key element of the Agile Digital Transformation Plan (particularly the Open Data strategy and the Data Commons, Data Driven projects and interoperability based on open data formats), the corresponding guidelines and their implementation will be developed in a new _Government Measure on the Strategy for Responsible and Ethical Data Management at Barcelona City Council_, which will specify the required technical details, processes and responsibilities.

@@ -1,0 +1,116 @@
+= Principals for designing and developing digital services
+
+The following general principles and guidelines form the basis of Barcelona City Council’s agile digital transformation Strategy and digital services standards, in terms of their design, development and maintenance.
+
+
+1::
+COMPLIANCE WITH THE DIGITAL SERVICES STANDARDS AND RESPONSIBLE DATA MANAGEMENT::
+
+Every new digital service must follow the City Council’s Digital Services Standards and the Responsible Data Management Strategy.
+
+2::
+AIMED AT CITIZENS::
+
+Barcelona City Council’s digital services are focused on covering users’ needs.
+All systems and services are ultimately at the service of the citizens and have to bring utility and added value to their experience.
+
+3::
+CLARITY IN OBJECTIVES AND RESOURCES::
+
+Projects have to show clarity in the objectives they aim to achieve, in the impact of these objectives and in how they are integrated into the City Council’s strategic plans.
+It is not sufficient for a project to be consistent internally and well developed; it must explain how the digital service will meet the specific needs of the City Council and the citizens.
++
+Projects must specify the technical and organisational resources needed for their performance and how these will be provided for.
+It is not necessary for all the details to be defined in the projects' initial stages; however, large projects must not be approved without sufficient analysis of these aspects.
+
+4::
+OPTIONS ANALYSIS::
+
+Every new service must begin with a strategic analysis of the options, to determine whether it has to be built within the municipal organisation, by external providers or by a mixed team involving both.
+Similarly, it must establish the development method to be used (by default, Agile), as will whether free software will be created, used or reused.
+Part of this process requires looking at the implications in choosing technologies and methodologies as regards the management and training of the City Council's internal and external staff.
+
+5::
+PRINCIPLE OF SIMPLICITY::
+
+The services to be developed will be designed by applying the principles of clarity and simplicity in their use and architecture.
+The aim will be to unify the various versions of applications used within the organisation and to avoid the proliferation of different versions.
+Transversal solutions to be used across the organisation will prevail over vertical (sectoral) solutions.
++
+Whenever possible, new services will minimise the number of modifications made to “standard” software packages (both proprietary and free software), to make them easier to deploy and use, to maintain the advantages in terms of cost and speed that standard solutions may have as opposed to custom developments and to avoid problems in updating or replacing them.
+Any modification or extension will undergo strict technical controls of its budgetary implications beyond those of the project itself (over time and across the organisation).
+
+6::
+AGILE DEVELOPMENT METHODOLOGIES AND CONTINUOUS INNOVATION::
+
+All of the IMI's technological projects will by default use Agile development methodologies, centred on users, , putting the focus on continuous innovation in accordance with the principles of the Agile Manifesto.
+Projects will be developed using iterative and incremental processes, testing hypotheses and creating prototypes, and using analytical and experimental methods.
+Projects will use the City Council’s Agile methodology, Scrum@IMI.
+
+7::
+REUSING AND PROVIDING SHARED COMPONENTS AND SERVICES::
+
+Projects will reuse existing shared digital components and services wherever possible and, where these do not exist or can be improved, contribute to their creation or development, before considering creating parallel alternatives.
+This permits costs to be reduced and brings consistency to the users’ experience and to service maintenance.
+
+8::
+INTEGRATED AND COMPREHENSIVE SERVICES::
+
+New digital services must demonstrate how the components and technology needed to provide them will be vertically integrated.
+Systems must be designed taking into account all aspects from user experience to the implications for the system’s architecture and its maintenance.
+This will require collaboration between teams in various departments and specialities.
+
+9::
+MAINTENANCE AND DOCUMENTATION::
+
+Services will follow the corporate classification of information (Service Catalogue) and operate following ITIL best practices.
+New digital services must maintain high quality documentation, including guides and manuals made available to the public so that they can be accessible to all stakeholders, both internal and external (such as providers), so that they may contribute to the documentation process.
+Documents will be kept in a centralised platform in standard formats, with version and authoring control.
+
+10::
+NEW SERVICE ARCHITECTURE::
+
+Whenever possible, the City Council’s new digital services will avoid traditional client-server architectures, giving preference to web solutions that comply with W3C standards, as these offer more flexibility, interoperability and independence over the machinery and operating systems they run on.
+Every new project must contribute to the phasing out of obsolete services, to reduce the number of services and technologies in use.
+Where appropriate, development projects for the services will use application programming interfaces (APIs) which will be correctly documented.
+
+11::
+ACCESSIBILITY AND DUAL LANGUAGE::
+
+Digital services will be conceived from their initial stage in both Catalan and Spanish and will be accessible for all users, both internal users and citizens, in accordance with the linguistic and accessibility style guides in force at any time for the City Council’s services.
+
+12::
+SECURITY::
+
+Services and projects will be designed taking security into account from their initial conceptualisation.
+Services must follow the corporate security Policy and standards based on standard ISO27002 and the national security Framework.
+
+13::
+PROCUREMENT::
+
+The acquisition and procurement of technological services will apply Barcelona City Council's procurement guides, namely, the Social Public Procurement Guide and the Environmental Public Procurement Guide from the Mayoral Decree on sustainable public procurement (S1/D/2017-1271 of 24 April), and the Guides on Technology Procurement and Innovative Procurement.
+New services will be procured as a matter of priority under procurement-framework agreements.
++
+To support the principle of technological sovereignty of the city, services must avoid dependency on a sole provider; this is also a key factor in increasing the capacity for innovation in public services.
+Systems integration must be carried out by a supplier that is different from the manufacturers of these systems.
+Whenever possible, the procurement of digital services will increase the diversity of providers and limit the budget volume of contracts.
++
+Compliance with the legal framework and competition regulations will help to promote procurement with SMEs in the city and its area of influence, though where necessary, the city will work with specialist companies from Spain and other countries within the EU.
+
+14::
+TECHNOLOGICAL SOVEREIGNTY AND FREE SOFTWARE::
+
+Projects must promote technological sovereignty, based on the principles that guide Barcelona’s Municipal Institute of Information Technology with regard to technology and innovation: interoperability, agility, reuse and ethics, as well as open knowledge and technologies.
+The IMI will incorporate free software and open technologies and standards into its technological services and processes, integrated throughout the architecture of its systems.
+
+15::
+CIVIC SOVEREIGNTY OF DATA::
+
+Citizens and the common good must be at the heart of all technological plans and platforms within the Barcelona municipality that collect, create or manage data and other information.
+Citizens must be able to control their data, the digital divide must be minimised and discriminatory or unethical practices towards the data prevented.
+
+16::
+DATA ACCESS AND REUSE, INNOVATION::
+
+Municipal institutions must be open, transparent and responsible towards the public.
+Municipal information and documents must be accessible, usable and analysable, so as to promote entrepreneurship, social and digital innovation, employment and excellence in scientific research, as well as improving the lives of Barcelona's residents and contributing significantly to the city's stability and prosperity.
