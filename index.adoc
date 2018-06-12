@@ -15,7 +15,9 @@ include::README.adoc[tag=metadata]
 
 include::aim-and-scope.adoc[]
 
-include::titles-preliminary.adoc[]
+include::principals.adoc[]
+
+include::guidelines.adoc[]
 
 [appendix]
 // (4/4) ADD BELOW THE LIST OF APPENDIXES. IMPORTANT: PUT A BLANK LINE BETWEEN
