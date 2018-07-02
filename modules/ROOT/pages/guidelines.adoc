@@ -10,12 +10,289 @@ It is the responsibility of both the IMI and the business units that make up the
 
 == Agile Projects
 
-To meet the objective of implementing Agile Methodologies ...
+To meet the objective of implementing Agile Methodologies in projects carried out by the City Council's entities, the following principles and guidelines shall apply:
+
+{counter:guidelines_agile}. MULTI-DISCIPLINARY COLLABORATION::
+
+Multidisciplinary teams will be set up that include the various roles and specialities needed to develop applications, services and processes.
+Only one or two people will be directly in charge, although the team's success will be shared by each of its members equally.
+
+{counter:guidelines_agile}. SELF-MANAGED TEAMS::
+
+Teams that are organised independently and flexibly can create new approaches and adapt to new challenges in their environment.
+As a consequence, roles and responsibilities within the teams will have a certain level of flexibility and fluidity according to the experience, skills and knowledge of the team's members, as well as the needs of the projects.
+
+{counter:guidelines_agile}. COMMUNICATION::
+
+A communication plan has to be devised, taking into consideration the need for transparency and the responsibilities of the various parties involved.
+Key players of the municipal services and processes must be identified, as well as the main players involved on the technical side.
+These will receive the communications that must be carried out as frequently as appropriate for the objectives and needs of the projects.
+Face-to-face dialogue will take priority over other means of communication.
+
+{counter:guidelines_agile}. TRANSPARENCY::
+
+The status of the project, priorities, risks, problems, tasks, landmarks, user-stories, contributions and possible "barriers" must be shared in an open and transparent manner with the key players, so that the challenges may be tackled quickly.
+This can be done using direct communication or tools adapted to Agile methodology.
+
+{counter:guidelines_agile}. CONTINUOUS IMPROVEMENT::
+
+Collaborative work practices will be established to promote a culture of learning and continuous improvement, both in the services provided as well as the capabilities of the teams' members.
+
+{counter:guidelines_agile}. RAPID FEEDBACK::
+
+Teams will do their utmost to make iterations as short as possible.
+Team practices will be implemented in such a way as to facilitate rapid feedback, and incorporate this feedback into the project backlog.
+
+{counter:guidelines_agile}. ACCEPTANCE TO CHANGE::
+
+It is understood that plans and projects evolve and change throughout the provision of the service.
+Analysis and planning practices will be established to take this into account.
+
+{counter:guidelines_agile}. ITERATIVE APPROACH::
+
+Analysis, design, planning and development activities will adopt an iterative approach in short cycles to enable prompt feedback and changes to priorities according to needs.
+
+{counter:guidelines_agile}. RAPID AND FREQUENT DEPLOYMENT::
+
+Emphasis must be placed on providing value for end-users as quickly as possible, reducing the time it takes to put applications into production and receiving feedback from users in the shortest time frame.
+Priority will be given to the minimum viable product that meets users’ priority needs, while the other functionalities will be deployed in subsequent deliveries.
+
+{counter:guidelines_agile}. CENTRED ON OFFERING VALUE TO THE USER::
+
+Users' needs must be put first, in priority to any other need, including those of the key players.
+Where there is a conflict of needs among the groups, we must ensure there are clear priorities.
+Diversity within teams will be promoted to foster inclusive designs.
+
+{counter:guidelines_agile}. QUALITY::
+
+Quality does not just refer to technical quality but also to quality of service.
+Quality must be present at every step in the process and everybody in the team has a responsibility to guarantee that the service is of a high standard.
+
+{counter:guidelines_agile}. MEASURING PROGRESS::
+
+Delivering viable software is the main measure of progress.
+Other measures also need to be applied that reflect the value provided to users and the municipal services to ensure that they meet real needs and give real value to citizens.
 
 == Technological sovereignty
 
-To meet the objective of technological sovereignty ...
+To meet the objective of technological sovereignty  set out in the Agile Digital Transformation Strategy and the Digital Service Standards, in particular to prevent dependency on suppliers (vendor lock-in), the following guidelines, which expand on the principles governing the IMI in technology and innovation (interoperability, agility, ethics and opening knowledge and technologies, both software and data related), are as follows.
+
+=== INTEROPERABILITY, OPEN FORMATS AND STANDARDS
+
+{counter:guidelines_sover}. INTEROPERABILITY::
+
+All Barcelona City Council’s digital services will support interoperability based on the use of open standards and formats.
+
+{counter:guidelines_sover}. USING OPEN STANDARDS::
+
+The City Council’s digital services will use open standards on a mandatory basis, and in particular those set out in the catalogue of standards from the Technical Interoperability Standard (as implemented under Royal Decree 4/2010) or the internationally accepted open standards that update, replace or complement these standards.
+Where there is no approved open standard for a required format, a format that is intended to be used will be proposed, in accordance with the provisions of the applicable regulations and the IMI’s requirements for open standards (as defined in the Guide to Technological Sovereignty that accompanies this Code).
+
+{counter:guidelines_sover}. IDENTIFYING FORMATS AND STANDARDS::
+
+The IMI will maintain public lists of technical formats and standards in use, classed as mandatory, priority or recommended.
+
+{counter:guidelines_sover}. CHOOSING STANDARDS::
+
+The choice of standards will follow an open and transparent process based on users' needs, flexibility, promotion of free competition and free collaboration and any implications for future interoperability.
+This process must be formally approved.
+The areas that have their own legal framework will comply with the specific standards applicable in that area (e.g. Geodata).
+
+=== GENERAL GUIDELINES ON FREE SOFTWARE
+
+{counter:guidelines_sover}. ACQUISITION AND PRIORITY USE OF FREE SOFTWARE::
+
+Preference will be given to the public procurement and acquisition of tools and systems that use free software, for all the technical architecture of the applications and services that are delivered, avoiding dependency on systems that are not free.
+The use of non-free solutions will be only be allowed in exceptional circumstances, which will be reviewed on a case-by-case basis, in accordance with criteria established in the Technology Procurement Guide.
+
+{counter:guidelines_sover}. FREEING SOFTWARE AND DOCUMENTATION::
+
+Both internal and external projects for the development of digital services will be developed from the outset with a view to their freeing, in line with the best practices of free software development, and based by default on open technologies that allow the final product to be released in accordance with the City Council's policy and the applicable regulations.
+Documentation, design and other elements (sounds, typographies, etc.) will also be made available to third parties under open content licences.
+
+{counter:guidelines_sover}. FOSTERING REUSE::
+
+Software acquisition will provide incentives for reusing existing solutions.
+Development projects in which the City Council participates will attempt, on top of being released under free software licences, to offer technical and organisational facilities for their reuse by third parties.
+Where software owned by the City Council and its associated entities cannot be released under a free software licence (for technical or legal reasons), it will be made available to other administrations without the need for any valuable consideration or agreement, in accordance with applicable regulations.
+
+{counter:guidelines_sover}. SHARING PROJECTS::
+
+Where appropriate, the possibility of collaborating with other public authorities and entities in the development of technological projects of interest will be studied, with a view to sharing costs and encouraging interoperability.
+
+=== PROJECTS
+
+{counter:guidelines_sover}. PREPARATION AND PRELIMINARY PROJECTS::
+
+The preparation stage of contracts must show that an exhaustive search has been made into already existing and reusable possible solutions, both nationally and in international public repositories.
+
+{counter:guidelines_sover}. TECHNICAL AND FUNCTIONAL SPECIFICATIONS::
+
+Proposed projects must not include any specification that prevents solutions with free and open technologies from being proposed, nor must they mention specific products or suppliers unless they are compatible with existing technologies, in accordance with the Guide to Technological Sovereignty.
+Architecture and interoperability requirements, and right and ability to modify and reuse the software of digital systems and services, will be regarded as technical features and specifications.
+
+{counter:guidelines_sover}. CALCULATION OF COSTS::
+
+Every decision on technology acquisitions will take into account the total cost of the system over the long-term useful life of the service (TCO, Total Cost of Ownership), including hidden costs (for example, exit costs to replace a technology in the future when formats or interfaces based on open standards are not used) as well as the net social benefits.
+
+{counter:guidelines_sover}. PROCUREMENT OF PROJECTS AND SERVICES::
+
+Contracts for new projects or extensions of existing projects will use standard clauses based on these principles, even in preliminary projects where a pre-selection of technologies is made, as well as in framework agreements and contracting in lots.
+These clauses will require the use of solutions based on free technology, except in exceptional circumstances as provided for in the Technology Procurement Guide.
+
+{counter:guidelines_sover}. BEST DEVELOPMENT PRACTICES::
+
+The development of digital infrastructures and services will follow best practices in development methodologies for free software, employing by default the IMI’s Agile methodology.
+
+{counter:guidelines_sover}. CODE MAINTENANCE AND DOCUMENTATION::
+
+During the lifetime of the contract, providers of ICT development services will collaborate with the IMI to keep the code available at all times in appropriate version-control systems.
+Similarly, every system and service must be properly documented and include the necessary instructions for the installation, deployment and configuration of services in free and open environments.
+
+=== OPENNESS, COMMUNITY AND CONTRIBUTIONS
+
+{counter:guidelines_sover}. COLLABORATION WITH FREE COMMUNITIES AND OTHER ENTITIES::
+
+Proposed projects will study the possibility of collaborating with the technology and free software communities, especially with local communities.
+Collaboration with other interested entities and institutions will also be encouraged, to promote social innovation and local technological products and skills.
+
+{counter:guidelines_sover}. SUSTAINABILITY AND GOVERNANCE::
+
+Projects that produce free systems and tools through a development service promoted and funded by the City Council must include a sustainability and governance model.
+This model will include an approximate definition of the community, support tools, communication and marketing activities, processes for external contributions, the management of intellectual property and the sustainability of the software beyond the project itself for the City Council.
+
+{counter:guidelines_sover}. EXTERNAL CONTRIBUTIONS::
+
+External players will be encouraged to make contributions to projects led or freed by the City Council.
+Specific rules adapted to each case will be established for the management of rights over contributions, with the objective of guaranteeing compliance with third-party rights and applicable law.
+
+{counter:guidelines_sover}. UPSTREAMING AND FORWARD COMPATIBILITY::
+
+Where projects developed by City Council staff and/or providers improve or transform an existing free software product, such improvements and any corrections will be contributed, as far as possible, to the original project (_upstreaming_). Similarly, projects will ensure forward compatibility, as much as possible, so that software adapted for Barcelona City Council will reduce to the maximum the number of potential problems for updating and maintenance.
+
+=== LEGAL ASPECTS
+
+{counter:guidelines_sover}. INTELLECTUAL PROPERTY IN MUNICIPAL SOFTWARE::
+
+City Council projects will establish a legal framework for clearly determining and managing intellectual property rights over software developments.
+Depending on each case, agreements will establish an ownership model, including options for assigning rights to the City Council or the IMI, leaving them in the hands of the provider, or assigning them to the entities that manage the relevant code for the project, as long as those relating to free projects are available under a free software licence.
+
+{counter:guidelines_sover}. LEGAL MANAGEMENT OF SOFTWARE-DEVELOPMENT PROJECTS::
+
+Projects must establish processes and documents for managing the legal aspects relating to intellectual property and software licences (in particular, in relation to contributions, licences over components used in development and other dependencies of the software), and in doing so, use best practices and standard or widespread-use tools in the sector, to guarantee the traceability and integrity of the code.
+
+{counter:guidelines_sover}. LICENCES FOR FREEING SOFTWARE::
+
+Software produced within the framework of the City Council’s digital services projects, including software resulting from procurement agreements, will be made publicly available under a free software licence that complies with applicable regulations.
+The City Council will establish the criteria and requirements to determine the type of licence to use for each project.
+
+{counter:guidelines_sover}. TRADEMARKS::
+
+Where a trademark is registered to identify a software project freed by the City Council, a public-use policy will be established to allow members of the community of users and developers to use the mark within the framework of the community's activities.
 
 == Responsible and ethical data management
 
-To meet the objective of responsible and ethical data management ...
+To meet the objective of responsible and ethical data management in the framework of the Digital Service Standards, the following guidelines under this Code of Technological Practices shall apply:
+
+
+=== SCOPE
+
+{counter:guidelines_ethic}. SCOPE::
+
+This Code of Practice covers the entire set of all municipal data.
+Municipal data can be divided, for conceptual purposes, into three large groups:
++
+a) *Management data:* these are the datasets that the various municipal management offices and entities use for carrying out their work.
++
+b) *Open data*: These are the datasets that the municipal corporation makes available to the public in raw format.
++
+c) *Official statistics*: These are the statistics obtained by the City Council on various datasets, and which are considered Official Statistics.
+Only the first set (management data) can include *personal data.*
+
+{counter:guidelines_ethic}. REPOSITORIES::
+
+The City Council has various repositories available for each type of dataset.
+Their definition and management will be linked to the set of technological requirements set out in this Code, as well as data-protection legislation.
+There is a transversal comprehensive data repository, within the City OS, which constitutes a single analytical repository of municipal data.
+The City OS will be able to include an analytical dashboard of any of the management datasets.
+
+=== DATA MANAGEMENT
+
+{counter:guidelines_ethic}. MANAGEMENT BASED ON EVIDENCE::
+
+Municipal services will be managed on the basis of data-based evidence.
+The datasets currently available to the City Council (the Data Lake) will be managed in a more efficient and transversal way so that they can return much greater value to citizens, and allow more complex analyses developed by Data Science.
+
+{counter:guidelines_ethic}. PLANNING::
+
+In order to support the management needs and mission of Barcelona City Council, each business unit will develop and maintain its own Data Management Plan (PMD) to define the objectives of its own information technology resources.
+The objectives must be specific, measurable and verifiable so that their progress can be monitored.
+
+{counter:guidelines_ethic}. INVENTORY AND ACTIVITY RECORDS::
+
+Business units will keep an inventory of the principal information systems, their containers and dissemination tools, with a level of detail appropriate for their supervision and management.
+In addition, each business unit will keep a record of all the actions taken in both management and analytical databases The Office of the Municipal Data Director (DMD or CDO) will determine the meta-information of these systems.
+
+{counter:guidelines_ethic}. DATA MANAGEMENT::
+
+Business units will continuously enable the adoption of new technologies and evaluate the entire life-cycle of each information system.
+Entities will incorporate the following steps, where appropriate, in planning, budget definition and management:
+* Municipal data will be ethically managed during their entire life-cycle (creation, collection, storage, use-analysis, dissemination, archiving and destruction).
+* Municipal information is managed by enabling its access, consultation and use by the public on the basis of legal provisions in force.
+* Activities carried out on the data will be recorded within an extensive set of meta-information.
+* Risks to privacy and security will be identified throughout the life-cycle of the data, performing risk analyses and developing security solutions.
+* Data management will involve a clear allocation of roles and responsibilities to promote the efficient design and operation of all the management processes.
+
+{counter:guidelines_ethic}. ARCHITECTURE::
+
+Business units will develop an architectural description (AD) that depicts the architecture that is available, the target architecture and the plan to achieve the latter.
+The AD for each unit must be in line with the PMD.
+The AD must identify which roles may have access to systems and which profiles have access to particular information, and under which circumstances.
+
+{counter:guidelines_ethic}. OPENNESS AND INTEROPERABILITY OF DATA AND FORMATS::
+
+Business units will promote the opening up of municipal data (Open Data) and interoperability based on open formats, subject to existing technical and legal requirements, to increase the public’s access to municipal information and make operations more efficient, reduce costs and improve services for citizens.
+
+{counter:guidelines_ethic}. RISK MANAGEMENT::
+
+Business units must apply and document appropriate safety measures for designated information and data, records management, transparency, impact assessment and supply chains, and do so during the entire data cycle so that the risks are assessed and managed.
+
+{counter:guidelines_ethic}. RESILIENCE PLAN::
+
+Each unit will develop a Resilience Plan.
+The Resilience Plan is crucial so that services can continue to operate and carry out tasks during disruptions.
+
+{counter:guidelines_ethic}. PRIVACY AND THE PROTECTION OF PERSONAL DATA::
+
+Municipal units will only be able to create, collect, use, store or disseminate personal data when they have the required authorisation.
+Business units must establish and maintain a data protection programme which ensures compliance with applicable regulations (in particular, Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016) and other privacy requirements, which assesses and manages privacy risks.
+
+{counter:guidelines_ethic}. PRIVACY BY DESIGN AND PETS::
+
+Measures must be taken to incorporate when necessary privacy by design strategies and/or privacy enhancing technologies (PETs), through which the privacy of data subjects is taken into account during all the processes for designing, developing and managing the City Council’s information systems.
+When applicable, encryption algorithms, data anonymization or pseudonymisation must be employed.
+
+{counter:guidelines_ethic}. IMPACT ASSESSMENTS::
+
+Business units will carry out privacy impact assessments aimed preventively at ensuring that, where data processing my involve especially serious risks, the necessary measures are taken to reduce, as far as possible, the risk of damaging or prejudicing people or of negatively affecting their rights and freedoms, blocking or restricting their exercise or content.
+
+{counter:guidelines_ethic}. DATA SECURITY::
+
+The physical security of the data will be determined by the standards defined by the IMI.
+In any event, any third party in charge of data processing must offer sufficient guarantees regarding the implementation and maintenance of required security measures, and the other guidelines defined in this Code and the future Data Strategy of Barcelona City Council.
+
+=== ROLES AND GOVERNANCE
+
+{counter:guidelines_ethic}. ROLES AND RESPONSIBILITIES::
+
+The municipal organisation will adapt the roles and responsibilities of managers and business units for the purposes of observing the requirements of this Code.
+A Municipal Data Manager will be appointed to head the Municipal Data Analytics Office, and each unit will have an officer responsible for data who will carry out this role for each of the bodies in charge of data.
+Pursuant to Regulation (EU) 2106/679, the City Council will appoint a corporate Data Protection Officer with the functions assigned by this regulation.
+
+{counter:guidelines_ethic}. CORPORATE MANAGEMENT – GOVERNANCE::
+
+The management offices and bodies will comply with the regulations and instructions regarding the management of data, information and municipal documents that are passed by the executive bodies, which will be developed on the basis of the Responsible Data Management Strategy led by the Commissioner for Technology and Digital Innovation.
+
+{counter:guidelines_ethic}. DATA DIRECTIVE::
+
+The Municipal Data Strategy that will be developed under this Code and the corresponding Government Measure on the Barcelona City Council Data Strategy, will establish the technical details for the development of municipal data management.
