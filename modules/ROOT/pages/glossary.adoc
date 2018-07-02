@@ -1,0 +1,211 @@
+= Glossary
+
+This glossary includes a list of the key concepts that are used in this Code of Technological Practices.
+The concepts have been defined illustratively but not exhaustively so that anyone with access to the content, regardless of their level of technical knowledge, can use the Code and understand it and thereby share the meaning of these concepts
+
+*PRELIMINARY PROJECTS OR CONSULTATIONS WITH THE MARKET*
+
+A set of actions aimed at maintaining a dialogue between contracting authorities and the market, prior to the start of the tender.
+The objective of these actions is to facilitate a greater understanding among providers’ of the authority’s needs, to study and assess the largest number of existing solutions in the market, and appropriately define the features of the tender.
+
+These processes are especially recommendable where the services to be contracted are particularly complex (and therefore, the solution too) or require innovative solutions.
+
+*VENDOR LOCK-IN*
+
+In the field of ICTs, a situation where the provider of a given product or technological service is in a position of power over the buyer, given that once the product or service has been provided, the client lacks the capacity to change the product or provider due to the costs in time and money that the change entails, or for want of viable alternatives.
+
+This situation may arise for several reasons, for example:
+
+* Use of proprietary software only accessible to the provider and which only the provider can therefore guarantee to develop or maintain.
+
+* A lack of technical skills on the part of the client or organisation, thereby preventing the service from being taken on with internal resources once it has been developed.
+
+*OPEN* *STANDARDS*
+
+An open standard is a standard that meets the following conditions:
+
+a. It is public and available for use for free or at a cost that does not make it difficult to access.
+
+b. Its use and application are not subject to payment for intellectual or industrial property rights.
+
+(Art. 11 RD 4/2010)
+
+As for standards that fall outside the catalogue legally established as “open”, the IMI adopts the following definition:
+
+* Open and Free Use. Any intellectual and industrial property rights whatsoever which are essential for implementing the standard, including "essential" patents, must be made available to everyone irrevocably and for free (without royalties).
+Reversible agreements on royalties or variable-price formats are not acceptable as they can create problems in free and open-source software and innovation, and in principle, they will not be used unless they are justified in accordance with law.
+There must be clear authorisation for allowing the use of any intellectual or industrial property rights in free or open-source software projects.
+By the same token, the rights set out in the text of the standard must allow its reproduction and redistribution without any restrictions or need for signing an agreement.
+* No discrimination. The standard does must not establish technical or legal clauses that limit its use by groups or for a specific purpose.
+* Complete information. The available information is complete enough for multiple implementations of the standard, in the framework of commercial competition, so that they are interoperable.
+The components, interfaces, extensions and protocols must meet the same conditions outlined in the standard, to prevent applications or solutions that implement restricted versions of the standard from dominating the market in practice.
+* Open collaboration. The standard is developed in a transparent process of consensus, open to the effective involvement of all interested parties.
+Management of the standard will preferably be the responsibility of a non-profit organisation.
+In no case will standards be accepted that are dominated by an organisation or group.
+Standards that are actively maintained on an on-going basis are preferred.
+
+*INTEROPERABILITY*
+
+The ability of information systems, and therefore the procedures they support, to share data and enable the exchange of information and knowledge between them (RD 4/2010).
+* Organisational interoperability: the capacity of entities and the processes through which they carry out their activities to collaborate in order to achieve mutually agreed objectives relating to the services they provide.
+* Semantic interoperability: the ability to interpret automatically information exchanged in a reusable way by applications that were not involved in its creation.
+* Technical interoperability: connectivity between information technology systems and services, including aspects such as interfaces, interconnection, integration of data and services, presentation of information, accessibility and security and other aspects of a similar nature.
+* Interoperability over time: the ability for elements corresponding to various technological waves to interact; mainly for information that is conserved in an electronic format.
+
+Technical, semantic and organisational interoperability is highly regulated under legislation under Royal Decree 4/2010, of 8^th^ January, regulating the National Interoperability Framework in the field of e-Government.
+
+*AGILE MANIFESTO*
+
+_http://agilemanifesto.org/iso/en/manifesto[http://agilemanifesto.org/iso/en/manifesto.] html_
+
+The manifesto on agile software development (2001).
+
+We are uncovering better ways of developing software by doing it and helping others do it.
+
+Through this work we have come to value:
+* *Individuals and interactions* over processes and tools
+* *Working software* over comprehensive documentation
+* *Collaboration with clients* over contract negotiation
+* *Responding to change* over focusing on planning
+
+In other words, even though the elements on the right are of value, we value those on the left even more.
+
+*AGILE METHODOLOGIES*
+
+A set of methodologies used in the field of software development and maintenance, based on iterative and short-term processes (typically lasting from one to four weeks).
+These processes result in the initial delivery of a partial but operational product, and the subsequent versions released have increasing functionalities.
+
+It is through these continuous iterations that the methodologies seek to provide value as from the beginning of the project, as well as enable continuous development of the product.
+The aim is to introduce improvements and constant development of products until an excellent end result is achieved, meeting all user requirements.
+
+This iterative strategy allows us to minimise risk, since each iteration is like a mini project and includes all the necessary stages: planning, requirements analysis, design, coding, user testing and documenting.
+Thus, any problems in execution, adaptation to requirements and the risks of the project surface sooner and corrective actions are less expensive and more immediate than in a traditional development project (in which they tend to emerge in the final phase of the project after months of evolution).
+
+Likewise, agile methodologies place the focus on user satisfaction, since they require the user to participate actively in the project both during design and development (through the validation of partial deliveries).
+This ensures that the final product meets users' needs and is in line with their expectations.
+
+*OPEN DATA*
+
+In the public-sector fieldfootnote:[_Law 37/2007 on the reuse of public sector information_], open data is understood as sets of data that are made available to the public and can be reused and re-published.
+The aim is to take full advantage of available public resources, making the information generated or held by public bodies available, enabling them to be accessed and reused for the benefit of any person or entity who may be interested in doing so.
+
+This public information, with a high potential value, can be relative to any topic and of any type — images, documents, statistical data, results of studies or analyses, information on public services, etc., — and companies, researchers, other public institutions or citizens in general, may use the information resources for any purpose.
+
+The aim is to maximise the economic and social possibilities offered by the data that are collected: promoting transparency in management, improving services to citizens, generating business activities and a positive social impact, as well as seeking efficiency in governance.
+
+*AGILE PRINCIPLES*
+
+_http://agilemanifesto.org/iso/en/principles[http://agilemanifesto.org/iso/en/principles.] html_
+
+The twelve principles derived from the Agile Manifesto are:
+
+. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+
+. Welcome changing requirements, even late in development.
+Agile processes harness change for the customer's competitive advantage.
+
+. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+
+. Business people and developers must work together daily throughout the project.
+
+. Build projects around motivated individuals.
+Give them the environment and support they need, and trust them to get the job done.
+
+. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+
+. Working software is the primary measure of progress.
+
+. Agile processes promote sustainable development.
+The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+
+. Continuous attention to technical excellence and good design enhances agility.
+
+. Simplicity--the art of maximising the amount of work not done--is essential.
+
+. The best architectures, requirements, and designs emerge from self-organising teams.
+
+. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behaviour accordingly.
+
+*FREE SOFTWARE*
+
+Free software is software that can be used, studied and modified without restrictions, and which can be copied and redistributed without restrictions, in a modified or unmodified version or with minimal restrictions to ensure that future recipients will also have these rights.
+It can generally be said that a program is free if it allows the four freedoms defined by the Free Software Foundation:
+
+* The freedom to run the program as you wish, for whatever purpose (freedom 0).
+* The freedom to study how the programme works, and change it so it does your computing as you wish (freedom 1).
+Access to the source code is a precondition for this.
+* The freedom to redistribute copies (freedom 2).
+* The freedom to distribute copies of your modified versions to others (freedom 3).
+As with freedom 1, access to the source code is a precondition for this.
+
+Free software must not be confused with freeware.
+
+This Code, taking a practical and technical approach, uses the term free software to indicate software released under licenses indicated as Free Software licenses at https://www.gnu.org/licenses/license-list.en.html[https://www.gnu.org/licenses/license-list.en.html]; and personalised or customised licenses that comply with the above 4 freedoms.
+Free software is more than open source software.
+
+*OPEN-SOURCE SOFTWARE*
+
+Open-source software refers to all software that can be used, modified and shared (with or without modifications) by any person, and published or distributed under an open licence, according to the "Open Source Definition" published by the Open Source Initiative (or OSI) and stated below.
+
+The OSI is a non-profit organisation with extensive international recognition and reference that works to establish standards, training and promotes the benefits and importance of using open source.
+According to the OSI, a software may only be considered open source where it is published under a licence that meets ten conditions:
+
+. Free redistribution: the software must be given or sold freely.
+
+. Source code: must be included, published or freely obtainable.
+
+. Must allow modifications and derived works: the redistribution of modifications must be permitted.
+
+. Integrity of the author's source code: the licence may require that modifications be distributed only as "patch files”, leaving the source code unchanged.
+
+. No discrimination against persons or groups: nobody can be excluded.
+
+. No discrimination against fields of endeavour: commercial users cannot be excluded.
+
+. Licence distribution: the same rights must apply to everyone who receives the program and the licence must remain intact when the software is distributed or modified.
+
+. Licences must not be specific to a product: the program may not obtain a licence solely as part of a wider distribution.
+
+. Licences must not restrict any other software: the licence may not compel other software that is distributed with open software to be open source as well.
+
+. Licences must be technology neutral: users must not be required to accept licences through a mouse click or other manner specific to the medium containing the software.
+
+We therefore need to differentiate between products such as open source or free software, which give users the freedom to use and improve them, by providing access to the source code and allowing their modification and free distribution, and products that simply provide access to the source code but which do not allow their modification or distribution
+
+Not all products that offer source code are necessarily open source or free, given that, despite their being transparent, they may not allow any modification or distribution.
+
+We consider, for the technical and practical purposes of this Code, that open source software is the same as free software.
+Both movements may however be distinguished for their policies, philosophy and ethics.
+
+**INDUSTRIAL PROPERTY**footnote:[Patents and models: Law 24/2015, of 24^th^ July, on Patents. Distinctive signs: law 17/2001, of 7^th^ December, on Trademarks. Industrial designs: Law 20/2003, of 7^th^ July, on the Legal protection of industrial design. Topographies of semiconductors: Law 11/1988, of 3^rd^ May, on the Legal protection of topographies of semiconductor products.]
+
+An exclusive set of rights that link a person or entity to an invention or other intangible creation (patents, trademarks or industrial designs), and which may be used by third parties.
+
+Industrial property grants exclusive rights that allow the person holding them to decide who can use them and how they can be used.
+
+These rights are granted under a procedure carried out by the competent office (in Spain's case, the Spanish Patent and Trademark Office) and protected throughout the entire territory that falls under the office's jurisdiction.
+
+**INTELLECTUAL PROPRETY**footnote:[_Under the provisions set out in Royal Legislative Decree 1/1996, of 12 April, approving the consolidated text of the Intellectual Property Law._]
+
+Intellectual property rights are a set of personal and proprietary rights enjoyed by authors and other owners of works (in the case of the ICTs, developments and services) that result from their creation.
+
+*DATA SOVEREIGNTY*
+
+The capacity of a natural or legal person to self-manage and take decisions over data about him/her that are held by a third party and to make that third party responsible for the use of those data.
+
+*TECHNOLOGICAL SOVEREIGNTY*
+
+Technological sovereignty entails a high degree of decision-making and self-management by an organisation or entity (in this case, the City Council) over the technology it uses in a given field, as well as the ability to maintain and develop it in accordance with its principles and needs.
+
+This approach contrasts with the classic dynamics of the supply of ICT services, which has been largely based on the use of licensed proprietary software.
+These dynamics have always favoured dependencies on technology providers.
+
+*FREEWARE*
+
+A type of software that is distributed for free but with a licence that prohibits other users from modifying or, in some cases, freely using the code.
+The user does not have access to the source code.
+
+*PROPRIETARY SOFTWARE*
+
+"Proprietary software" is software that is distributed under a licence that is not free or open and which does not allow other users to freely modify or adapt and redistribute it.
+Its source code is generally not available to third parties.

@@ -1,0 +1,42 @@
+= References
+
+The guides cited this Code have a detailed bibliography for each area (Barcelona City Council Guides on Agile Methodologies and Technological Sovereignty).
+
+*European Union*
+
+* Communication COM (2013) 455 final: “_Against lock-in: building open ICT systems by making better use of standards in public procurement_”. Available online at http://ec.europa.eu/newsroom/dae/document.cfm?doc_id=2327[_http://ec.europa.eu/newsroom/dae/document.cfm?doc_id=2327_]
+
+* SWD (2013) 224 final: “_Guide for the procurement of standards-based ICT — Elements of Good Practice_”. Available online at
+http://ec.europa.eu/newsroom/dae/document.cfm?doc_id=2326[_http://ec.europa.eu/newsroom/dae/document.cfm?doc_id=2326_]
+
+* “_The Sharing and Reuse Framework for IT Solutions_”, (2016). Available online at
+_https://joinup.ec.europa.eu/sites/default/files/sharing_and_reuse_of_it_solutions_framework_final.pdf_
+
+* “_Governance Models for Sharing and Re-use for Common IT Solutions_,” 2013. Available online at _https://joinup.ec.europa.eu/sites/default/files/b6/cc/cd/Governance%20Models%20for%20Sharing%20and%20Re-use.pdf_
+
+*Spain*
+
+* Technical interoperability standard, in the PAE (e-Government Portal) _http://administracionelectronica.gob.es/pae_Home/pae_Estrategias/pae_Interoperabilidad_Inicio/pae_Normas_tecnicas_de_interoperabilidad.html_
+
+*Barcelona City Council*
+
+* Document Management Policy
+http://ajuntament.barcelona.cat/arxiumunicipal/sites/default/files/InstruccioPoliticaGD_cat.pdf[_http://ajuntament.barcelona.cat/arxiumunicipal/sites/default/files/InstruccioPoliticaGD_cat.pdf_]
+
+* Geoportalbcn,
+http://www.bcn.cat/geoportal/es/estandards.html[_http://www.bcn.cat/geoportal/es/estandards.html_]
+
+*Other documents*
+
+* Agile Manifesto: http://agilemanifesto.org/iso/en/manifesto.html[_http://agilemanifesto.org/iso/en/manifesto.html_]
+
+* Agile Principles: http://agilemanifesto.org/iso/en/principles.html[_http://agilemanifesto.org/iso/en/principles.html_]
+
+* Open Standards Requirement for Software, _https://opensource.org/osr_
+
+* Definition of Free Software: https://http://www.gnu.org/philosophy/free-sw.ca.html[_www.gnu.org/philosophy/free-sw.ca.html_] (original in English at https://www.gnu.org/philosophy/free-sw.en.html[_https://www.gnu.org/philosophy/free-sw.en.html_]).
+
+* Definition of Open Source: _https://opensource.org/osd_
+
+* Paris Declaration of the Open Government Partnership, available online at
+_https://paris-declaration.ogpsummit.org/_
