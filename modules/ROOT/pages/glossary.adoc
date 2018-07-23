@@ -1,4 +1,14 @@
 = Glossary
+:experimental:
+:icons: font
+:page-partial:
+:source-highlighter: highlightjs
+
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+include::{partialsdir}/README.adoc[tag=metadata]
 
 This glossary includes a list of the key concepts that are used in this Code of Technological Practices.
 The concepts have been defined illustratively but not exhaustively so that anyone with access to the content, regardless of their level of technical knowledge, can use the Code and understand it and thereby share the meaning of these concepts
