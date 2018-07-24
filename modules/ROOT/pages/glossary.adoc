@@ -34,9 +34,10 @@ This situation may arise for several reasons, for example:
 
 An open standard is a standard that meets the following conditions:
 
-a. It is public and available for use for free or at a cost that does not make it difficult to access.
+[loweralpha]
+. It is public and available for use for free or at a cost that does not make it difficult to access.
 
-b. Its use and application are not subject to payment for intellectual or industrial property rights.
+. Its use and application are not subject to payment for intellectual or industrial property rights.
 
 (Art. 11 RD 4/2010)
 
