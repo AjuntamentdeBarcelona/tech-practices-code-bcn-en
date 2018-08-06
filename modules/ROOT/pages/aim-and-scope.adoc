@@ -20,7 +20,7 @@ It aims to enable those in charge of governance and management of digital servic
 The Code is designed to be a practical reference document and does not contain theoretical justifications for the policies proposed or references to examples, except in a few cases.
 
 The specific guidelines are based on the best practices of various other countries and contexts.
-The United Kingdom, the United States, Sweden and the Netherlands, among many other places, have implemented innovative state-level policies on open technologies and agile developments.
+The United Kingdom, the United States, Sweden and the Netherlands, among many other places, have implemented innovative state-level policies on free technologies and agile developments.
 
 == Scope and application
 
@@ -40,7 +40,7 @@ The document is divided up into a set of general principles, backed by the guide
 
 * The development of agile digital services
 
-* Technological sovereignty, based on the use of open standards and free software
+* Technological sovereignty, based on the use of free standards and free software
 
 * The ethical and secure management of data and open data policies
 
@@ -49,4 +49,4 @@ This document complements but does not replace any of the organisation’s polic
 
 This Code of Technological Practices is accompanied by two supporting documents to promote the Agile Digital Transformation Plan: The Agile Methodologies Guide and the Technological Sovereignty Guide.
 In addition, the Plan is being implemented through the City Council’s Procurement Guides, particularly the Technology Procurement Guide and the Innovative Procurement Guide.
-As for responsible and ethical data management, a key element of the Agile Digital Transformation Plan (particularly the Open Data strategy and the Data Commons, Data Driven projects and interoperability based on open data formats), the corresponding guidelines and their implementation will be developed in a new _Government Measure on the Strategy for Responsible and Ethical Data Management at Barcelona City Council_, which will specify the required technical details, processes and responsibilities.
+As for responsible and ethical data management, a key element of the Agile Digital Transformation Plan (particularly the Open Data strategy and the Data Commons, Data Driven projects and interoperability based on free data formats), the corresponding guidelines and their implementation will be developed in a new _Government Measure on the Strategy for Responsible and Ethical Data Management at Barcelona City Council_, which will specify the required technical details, processes and responsibilities.

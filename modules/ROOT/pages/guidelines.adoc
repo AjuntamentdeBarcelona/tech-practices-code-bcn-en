@@ -87,16 +87,16 @@ Other measures also need to be applied that reflect the value provided to users 
 
 To meet the objective of technological sovereignty  set out in the Agile Digital Transformation Strategy and the Digital Service Standards, in particular to prevent dependency on suppliers (vendor lock-in), the following guidelines, which expand on the principles governing the IMI in technology and innovation (interoperability, agility, ethics and opening knowledge and technologies, both software and data related), are as follows.
 
-=== INTEROPERABILITY, OPEN FORMATS AND STANDARDS
+=== INTEROPERABILITY, FREE FORMATS AND STANDARDS
 
 {counter:guidelines_sover}. INTEROPERABILITY::
 
-All Barcelona City Council’s digital services will support interoperability based on the use of open standards and formats.
+All Barcelona City Council’s digital services will support interoperability based on the use of free standards and formats.
 
-{counter:guidelines_sover}. USING OPEN STANDARDS::
+{counter:guidelines_sover}. USING FREE STANDARDS::
 
-The City Council’s digital services will use open standards on a mandatory basis, and in particular those set out in the catalogue of standards from the Technical Interoperability Standard (as implemented under Royal Decree 4/2010) or the internationally accepted open standards that update, replace or complement these standards.
-Where there is no approved open standard for a required format, a format that is intended to be used will be proposed, in accordance with the provisions of the applicable regulations and the IMI’s requirements for open standards (as defined in the Guide to Technological Sovereignty that accompanies this Code).
+The City Council’s digital services will use free standards on a mandatory basis, and in particular those set out in the catalogue of standards from the Technical Interoperability Standard (as implemented under Royal Decree 4/2010) or the internationally accepted free standards that update, replace or complement these standards.
+Where there is no approved free standard for a required format, a format that is intended to be used will be proposed, in accordance with the provisions of the applicable regulations and the IMI’s requirements for free standards (as defined in the Guide to Technological Sovereignty that accompanies this Code).
 
 {counter:guidelines_sover}. IDENTIFYING FORMATS AND STANDARDS::
 
@@ -117,8 +117,8 @@ The use of non-free solutions will be only be allowed in exceptional circumstanc
 
 {counter:guidelines_sover}. FREEING SOFTWARE AND DOCUMENTATION::
 
-Both internal and external projects for the development of digital services will be developed from the outset with a view to their freeing, in line with the best practices of free software development, and based by default on open technologies that allow the final product to be released in accordance with the City Council's policy and the applicable regulations.
-Documentation, design and other elements (sounds, typographies, etc.) will also be made available to third parties under open content licences.
+Both internal and external projects for the development of digital services will be developed from the outset with a view to their freeing, in line with the best practices of free software development, and based by default on free technologies that allow the final product to be released in accordance with the City Council's policy and the applicable regulations.
+Documentation, design and other elements (sounds, typographies, etc.) will also be made available to third parties under free content licences.
 
 {counter:guidelines_sover}. FOSTERING REUSE::
 
@@ -138,12 +138,12 @@ The preparation stage of contracts must show that an exhaustive search has been 
 
 {counter:guidelines_sover}. TECHNICAL AND FUNCTIONAL SPECIFICATIONS::
 
-Proposed projects must not include any specification that prevents solutions with free and open technologies from being proposed, nor must they mention specific products or suppliers unless they are compatible with existing technologies, in accordance with the Guide to Technological Sovereignty.
+Proposed projects must not include any specification that prevents solutions with free technologies from being proposed, nor must they mention specific products or suppliers unless they are compatible with existing technologies, in accordance with the Guide to Technological Sovereignty.
 Architecture and interoperability requirements, and right and ability to modify and reuse the software of digital systems and services, will be regarded as technical features and specifications.
 
 {counter:guidelines_sover}. CALCULATION OF COSTS::
 
-Every decision on technology acquisitions will take into account the total cost of the system over the long-term useful life of the service (TCO, Total Cost of Ownership), including hidden costs (for example, exit costs to replace a technology in the future when formats or interfaces based on open standards are not used) as well as the net social benefits.
+Every decision on technology acquisitions will take into account the total cost of the system over the long-term useful life of the service (TCO, Total Cost of Ownership), including hidden costs (for example, exit costs to replace a technology in the future when formats or interfaces based on free standards are not used) as well as the net social benefits.
 
 {counter:guidelines_sover}. PROCUREMENT OF PROJECTS AND SERVICES::
 
@@ -157,11 +157,11 @@ The development of digital infrastructures and services will follow best practic
 {counter:guidelines_sover}. CODE MAINTENANCE AND DOCUMENTATION::
 
 During the lifetime of the contract, providers of ICT development services will collaborate with the IMI to keep the code available at all times in appropriate version-control systems.
-Similarly, every system and service must be properly documented and include the necessary instructions for the installation, deployment and configuration of services in free and open environments.
+Similarly, every system and service must be properly documented and include the necessary instructions for the installation, deployment and configuration of services in free environments.
 
 === OPENNESS, COMMUNITY AND CONTRIBUTIONS
 
-{counter:guidelines_sover}. COLLABORATION WITH FREE COMMUNITIES AND OTHER ENTITIES::
+{counter:guidelines_sover}. COLLABORATION WITH FREE SOFTWARE COMMUNITIES AND OTHER ENTITIES::
 
 Proposed projects will study the possibility of collaborating with the technology and free software communities, especially with local communities.
 Collaboration with other interested entities and institutions will also be encouraged, to promote social innovation and local technological products and skills.
@@ -259,9 +259,9 @@ Business units will develop an architectural description (AD) that depicts the a
 The AD for each unit must be in line with the PMD.
 The AD must identify which roles may have access to systems and which profiles have access to particular information, and under which circumstances.
 
-{counter:guidelines_ethic}. OPENNESS AND INTEROPERABILITY OF DATA AND FORMATS::
+{counter:guidelines_ethic}. INTEROPERABILITY OF DATA AND FORMATS::
 
-Business units will promote the opening up of municipal data (Open Data) and interoperability based on open formats, subject to existing technical and legal requirements, to increase the public’s access to municipal information and make operations more efficient, reduce costs and improve services for citizens.
+Business units will promote the opening up of municipal data (Open Data) and interoperability based on free formats, subject to existing technical and legal requirements, to increase the public’s access to municipal information and make operations more efficient, reduce costs and improve services for citizens.
 
 {counter:guidelines_ethic}. RISK MANAGEMENT::
 

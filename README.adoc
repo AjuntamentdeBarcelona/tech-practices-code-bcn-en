@@ -26,7 +26,7 @@
 
 // MANDATORY. Summary of the contents of the document. This would correspond to
 // the "abstract" in an academic publication.
-:_summary: A set tech policies and directives mandating the use of open standards, open source and ethical data management.
+:_summary: A set tech policies and directives mandating the use of free standards, free software and ethical data management.
 
 // MANDATORY. Comma-separated list of terms to help classifying and searching
 // the document. In web format, this terms are integrated as SEO enabling

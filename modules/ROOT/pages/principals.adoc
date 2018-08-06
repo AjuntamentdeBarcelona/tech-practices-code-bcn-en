@@ -95,8 +95,8 @@ Compliance with the legal framework and competition regulations will help to pro
 
 {counter:principal}. TECHNOLOGICAL SOVEREIGNTY AND FREE SOFTWARE::
 
-Projects must promote technological sovereignty, based on the principles that guide Barcelona’s Municipal Institute of Information Technology with regard to technology and innovation: interoperability, agility, reuse and ethics, as well as open knowledge and technologies.
-The IMI will incorporate free software and open technologies and standards into its technological services and processes, integrated throughout the architecture of its systems.
+Projects must promote technological sovereignty, based on the principles that guide Barcelona’s Municipal Institute of Information Technology with regard to technology and innovation: interoperability, agility, reuse and ethics, as well as free knowledge and technologies.
+The IMI will incorporate free software and standards into its technological services and processes, integrated throughout the architecture of its systems.
 
 {counter:principal}. CIVIC SOVEREIGNTY OF DATA::
 

@@ -30,9 +30,9 @@ This situation may arise for several reasons, for example:
 
 * A lack of technical skills on the part of the client or organisation, thereby preventing the service from being taken on with internal resources once it has been developed.
 
-*OPEN* *STANDARDS*
+*FREE STANDARDS*
 
-An open standard is a standard that meets the following conditions:
+A free standard is a standard that meets the following conditions:
 
 [loweralpha]
 . It is public and available for use for free or at a cost that does not make it difficult to access.
@@ -41,7 +41,7 @@ An open standard is a standard that meets the following conditions:
 
 (Art. 11 RD 4/2010)
 
-As for standards that fall outside the catalogue legally established as “open”, the IMI adopts the following definition:
+As for standards that fall outside the catalogue legally established as “free”, the IMI adopts the following definition:
 
 * Open and Free Use. Any intellectual and industrial property rights whatsoever which are essential for implementing the standard, including "essential" patents, must be made available to everyone irrevocably and for free (without royalties).
 Reversible agreements on royalties or variable-price formats are not acceptable as they can create problems in free and open-source software and innovation, and in principle, they will not be used unless they are justified in accordance with law.
