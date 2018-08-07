@@ -1,3 +1,4 @@
+[appendix]
 = Glossary
 :experimental:
 :icons: font
@@ -10,70 +11,18 @@ endif::[]
 
 include::{partialsdir}/README.adoc[tag=metadata]
 
-This glossary includes a list of the key concepts that are used in this Code of Technological Practices.
-The concepts have been defined illustratively but not exhaustively so that anyone with access to the content, regardless of their level of technical knowledge, can use the Code and understand it and thereby share the meaning of these concepts
-
-*PRELIMINARY PROJECTS OR CONSULTATIONS WITH THE MARKET*
-
-A set of actions aimed at maintaining a dialogue between contracting authorities and the market, prior to the start of the tender.
-The objective of these actions is to facilitate a greater understanding among providers’ of the authority’s needs, to study and assess the largest number of existing solutions in the market, and appropriately define the features of the tender.
-
-These processes are especially recommendable where the services to be contracted are particularly complex (and therefore, the solution too) or require innovative solutions.
-
-*VENDOR LOCK-IN*
-
-In the field of ICTs, a situation where the provider of a given product or technological service is in a position of power over the buyer, given that once the product or service has been provided, the client lacks the capacity to change the product or provider due to the costs in time and money that the change entails, or for want of viable alternatives.
-
-This situation may arise for several reasons, for example:
-
-* Use of proprietary software only accessible to the provider and which only the provider can therefore guarantee to develop or maintain.
-
-* A lack of technical skills on the part of the client or organisation, thereby preventing the service from being taken on with internal resources once it has been developed.
-
-*FREE STANDARDS*
-
-A free standard is a standard that meets the following conditions:
-
-[loweralpha]
-. It is public and available for use for free or at a cost that does not make it difficult to access.
-
-. Its use and application are not subject to payment for intellectual or industrial property rights.
-
-(Art. 11 RD 4/2010)
-
-As for standards that fall outside the catalogue legally established as “free”, the IMI adopts the following definition:
-
-* Open and Free Use. Any intellectual and industrial property rights whatsoever which are essential for implementing the standard, including "essential" patents, must be made available to everyone irrevocably and for free (without royalties).
-Reversible agreements on royalties or variable-price formats are not acceptable as they can create problems in free and open-source software and innovation, and in principle, they will not be used unless they are justified in accordance with law.
-There must be clear authorisation for allowing the use of any intellectual or industrial property rights in free or open-source software projects.
-By the same token, the rights set out in the text of the standard must allow its reproduction and redistribution without any restrictions or need for signing an agreement.
-* No discrimination. The standard does must not establish technical or legal clauses that limit its use by groups or for a specific purpose.
-* Complete information. The available information is complete enough for multiple implementations of the standard, in the framework of commercial competition, so that they are interoperable.
-The components, interfaces, extensions and protocols must meet the same conditions outlined in the standard, to prevent applications or solutions that implement restricted versions of the standard from dominating the market in practice.
-* Open collaboration. The standard is developed in a transparent process of consensus, open to the effective involvement of all interested parties.
-Management of the standard will preferably be the responsibility of a non-profit organisation.
-In no case will standards be accepted that are dominated by an organisation or group.
-Standards that are actively maintained on an on-going basis are preferred.
-
-*INTEROPERABILITY*
-
-The ability of information systems, and therefore the procedures they support, to share data and enable the exchange of information and knowledge between them (RD 4/2010).
-* Organisational interoperability: the capacity of entities and the processes through which they carry out their activities to collaborate in order to achieve mutually agreed objectives relating to the services they provide.
-* Semantic interoperability: the ability to interpret automatically information exchanged in a reusable way by applications that were not involved in its creation.
-* Technical interoperability: connectivity between information technology systems and services, including aspects such as interfaces, interconnection, integration of data and services, presentation of information, accessibility and security and other aspects of a similar nature.
-* Interoperability over time: the ability for elements corresponding to various technological waves to interact; mainly for information that is conserved in an electronic format.
-
-Technical, semantic and organisational interoperability is highly regulated under legislation under Royal Decree 4/2010, of 8^th^ January, regulating the National Interoperability Framework in the field of e-Government.
+This glossary includes a list of the key terms used in the documents that form the strategy towards technological sovereignty set out in the Digital Barcelona Plan 2017-2020.
+They have been defined using simple but clear vocabulary to ensure that everyone with access to the glossary can understand the meaning and significance of these terms regardless of their level of technical knowledge.
+The goal is to facilitate use and understanding of this guide.
 
 *AGILE MANIFESTO*
 
-_http://agilemanifesto.org/iso/en/manifesto[http://agilemanifesto.org/iso/en/manifesto.] html_
-
+_http://agilemanifesto.org/iso/en/manifesto_.
 The manifesto on agile software development (2001).
 
 We are uncovering better ways of developing software by doing it and helping others do it.
-
 Through this work we have come to value:
+
 * *Individuals and interactions* over processes and tools
 * *Working software* over comprehensive documentation
 * *Collaboration with clients* over contract negotiation
@@ -83,30 +32,20 @@ In other words, even though the elements on the right are of value, we value tho
 
 *AGILE METHODOLOGIES*
 
-A set of methodologies used in the field of software development and maintenance, based on iterative and short-term processes (typically lasting from one to four weeks).
-These processes result in the initial delivery of a partial but operational product, and the subsequent versions released have increasing functionalities.
+A set of methodologies used in the field of software development and maintenance based on iterative short-term (typically lasting from one to four weeks) processes that lead to the initial delivery of a partial but operational product and various consecutive versions with increasingly complete features.
 
-It is through these continuous iterations that the methodologies seek to provide value as from the beginning of the project, as well as enable continuous development of the product.
-The aim is to introduce improvements and constant development of products until an excellent end result is achieved, meeting all user requirements.
+Through constant iterations, these methodologies seek to provide value from the very beginning of a project, as well as enable continuous development of the product.
+Their goal is to introduce improvements and on-going product evolution until a final result of excellence is achieved that fully responds to all user requirements.
 
-This iterative strategy allows us to minimise risk, since each iteration is like a mini project and includes all the necessary stages: planning, requirements analysis, design, coding, user testing and documenting.
-Thus, any problems in execution, adaptation to requirements and the risks of the project surface sooner and corrective actions are less expensive and more immediate than in a traditional development project (in which they tend to emerge in the final phase of the project after months of evolution).
+Such iterative strategies allow risks to be minimised because each iteration is viewed as a miniature project and includes all the necessary stages: planning, requirement analysis, design, coding, user testing and documentation.
+Thus, any implementation problems, adaptation to requirements and risks in a project come to light earlier and the corrective measures are less costly and more immediate than in a traditional development project (in which they tend to come to light during the final stage of the project, following months of evolution).
 
-Likewise, agile methodologies place the focus on user satisfaction, since they require the user to participate actively in the project both during design and development (through the validation of partial deliveries).
-This ensures that the final product meets users' needs and is in line with their expectations.
-
-*OPEN DATA*
-
-In the public-sector fieldfootnote:[_Law 37/2007 on the reuse of public sector information_], open data is understood as sets of data that are made available to the public and can be reused and re-published.
-The aim is to take full advantage of available public resources, making the information generated or held by public bodies available, enabling them to be accessed and reused for the benefit of any person or entity who may be interested in doing so.
-
-This public information, with a high potential value, can be relative to any topic and of any type — images, documents, statistical data, results of studies or analyses, information on public services, etc., — and companies, researchers, other public institutions or citizens in general, may use the information resources for any purpose.
-
-The aim is to maximise the economic and social possibilities offered by the data that are collected: promoting transparency in management, improving services to citizens, generating business activities and a positive social impact, as well as seeking efficiency in governance.
+Furthermore, agile methodologies are focused on user satisfaction because they require active user participation in the project during both conceptualisation and development (via validation of the partial deliveries).
+This ensures that the final product responds to the needs of the user and meets user expectations.
 
 *AGILE PRINCIPLES*
 
-_http://agilemanifesto.org/iso/en/principles[http://agilemanifesto.org/iso/en/principles.] html_
+_http://agilemanifesto.org/iso/en/principles_
 
 The twelve principles derived from the Agile Manifesto are:
 
@@ -131,28 +70,68 @@ The sponsors, developers, and users should be able to maintain a constant pace i
 
 . Continuous attention to technical excellence and good design enhances agility.
 
-. Simplicity--the art of maximising the amount of work not done--is essential.
+. Simplicity -- the art of maximising the amount of work not done -- is essential.
 
 . The best architectures, requirements, and designs emerge from self-organising teams.
 
 . At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behaviour accordingly.
 
+*COLLUSION BETWEEN COMPANIES*
+
+In the field of public procurement, this is an agreement in which two or more companies decide to act in a concerted fashion with regard to the terms and conditions for providing services or selling products under a tender process in order to minimise or even eliminate competition from the other companies taking part in the process.
+
+The lack of real competition between possible bidders leads to an artificial increase in prices and worse service conditions, with the corresponding adverse effects on the public and the optimisation of public resources.
+Such practices may be especially common in certain contracting procedures, such as those taking place under the framework agreements.
+Given that there is a limited number of officially approved companies, it is easier for such concerted action to take place and a falsification of competition to arise in any subsequent secondary contracting processes.
+
+*DATA SOVEREIGNTY*
+
+The decision-making and self-management powers of an individual or legal entity over the information thereon held by a third party, making the former also responsible for the use and consumption thereof.
+
+*ELECTRONIC AUCTION*
+
+Iterative negotiation process for bid selection that includes an automatic electronic bid evaluation device based on price and other variables with no intervention by the contracting authority in the evaluation of auction variables.
+The process requires a first evaluation of the bids submitted by vendors, which are then invited to attend the auction so they can offer improvements in the evaluation variables (price or other variables).
+
+This is not a contracting procedure but rather an instrument or tool applicable to various contracting procedures, provided that the nature of the service or product subject to procurement makes this possible under the provisions of the Spanish Law on public sector contracts.
+
+*ELECTRONICS WATCH*
+
+Public sector institutions are large-scale consumers of ICT hardware, such as laptop and desktop computers, printers, screens and storage media, and often purchase these products under long-term contracts.
+This can therefore create market opportunities for companies that commit to respecting labour law and safety guidelines in global supply chains, making them responsible for any breach.
+
+Electronics Watch is an independent watchdog that helps public sector buyers fulfil their responsibility to protect the labour rights of workers in their global electronics supply chains.
+
+*FRAMEWORK AGREEMENT*
+
+An instrument used for the technical rationalisation of public procurement aimed at simplifying the contracting procedures while also reducing the costs associated with these procedures.
+It may imply significant advantages for both the public authorities and bidders, such as savings (of time and resources) in the administrative management of the contracting process or immediately providing a pool of bidders whose technical and economic solvency has been accredited.
+
+A framework agreement enables a series of common terms or conditions to be established in a single process that are valid for multiple contracts arising while the framework agreement is in effect.
+Hence, any secondary contracting processes stemming from the framework agreement are quicker and easier.
+
+Even so, it should be remembered that it can also lead to negative effects on competition given that, as a result of the official approval process, a certain degree of market closure may take place and collusion between officially approved companies may be made easier.
+A limited term and scope of the framework agreement, as well as the definition of certain specific criteria for awarding secondary contracting processes, allow these adverse effects to be reduced.
+
 *FREE SOFTWARE*
 
-Free software is software that can be used, studied and modified without restrictions, and which can be copied and redistributed without restrictions, in a modified or unmodified version or with minimal restrictions to ensure that future recipients will also have these rights.
+Software that can be used, studied and modified without restriction and that can be copied and redistributed, either in a modified or unmodified version with no restriction or with certain minimum restrictions to ensure that the future recipients also have these rights.
 It can generally be said that a program is free if it allows the four freedoms defined by the Free Software Foundation:
 
 * The freedom to run the program as you wish, for whatever purpose (freedom 0).
+
 * The freedom to study how the programme works, and change it so it does your computing as you wish (freedom 1).
 Access to the source code is a precondition for this.
+
 * The freedom to redistribute copies (freedom 2).
+
 * The freedom to distribute copies of your modified versions to others (freedom 3).
 As with freedom 1, access to the source code is a precondition for this.
 
 Free software must not be confused with freeware.
 
-This Code, taking a practical and technical approach, uses the term free software to indicate software released under licenses indicated as Free Software licenses at https://www.gnu.org/licenses/license-list.en.html[https://www.gnu.org/licenses/license-list.en.html]; and personalised or customised licenses that comply with the above 4 freedoms.
-Free software is more than open source software.
+This document, taking a practical and technical approach, uses the term free software to indicate software released under licenses indicated as Free Software licenses at https://www.gnu.org/licenses/license-list.en.html[https://www.gnu.org/licenses/license-list.en.html]; and personalised or customized licenses that comply with the above 4 freedoms.
+Free software is distinguished from open source software in their policies, philosophy and ethics.
 
 *OPEN-SOURCE SOFTWARE*
 
@@ -181,42 +160,141 @@ According to the OSI, a software may only be considered open source where it is 
 
 . Licences must be technology neutral: users must not be required to accept licences through a mouse click or other manner specific to the medium containing the software.
 
-We therefore need to differentiate between products such as open source or free software, which give users the freedom to use and improve them, by providing access to the source code and allowing their modification and free distribution, and products that simply provide access to the source code but which do not allow their modification or distribution
+A distinction must therefore be made between products such as free or open source software that give users the freedom to use it or improve it by providing access to the source code and allowing modification and free distribution from products that simply provide access to the source code but do not allow its modification or distribution.
 
-Not all products that offer source code are necessarily open source or free, given that, despite their being transparent, they may not allow any modification or distribution.
+Therefore, not all the products that offer the source code are necessarily open source or free given that, although transparent, they do not allow its modification or distribution.
 
-We consider, for the technical and practical purposes of this Code, that open source software is the same as free software.
-Both movements may however be distinguished for their policies, philosophy and ethics.
+In this regard, it is important to note that – for all legal and contractual purposes – open source is the same as free software.
+The two movements differ in terms of their policy, philosophy and ethics.
 
-**INDUSTRIAL PROPERTY**footnote:[Patents and models: Law 24/2015, of 24^th^ July, on Patents. Distinctive signs: law 17/2001, of 7^th^ December, on Trademarks. Industrial designs: Law 20/2003, of 7^th^ July, on the Legal protection of industrial design. Topographies of semiconductors: Law 11/1988, of 3^rd^ May, on the Legal protection of topographies of semiconductor products.]
-
-An exclusive set of rights that link a person or entity to an invention or other intangible creation (patents, trademarks or industrial designs), and which may be used by third parties.
-
-Industrial property grants exclusive rights that allow the person holding them to decide who can use them and how they can be used.
-
-These rights are granted under a procedure carried out by the competent office (in Spain's case, the Spanish Patent and Trademark Office) and protected throughout the entire territory that falls under the office's jurisdiction.
-
-**INTELLECTUAL PROPRETY**footnote:[_Under the provisions set out in Royal Legislative Decree 1/1996, of 12 April, approving the consolidated text of the Intellectual Property Law._]
-
-Intellectual property rights are a set of personal and proprietary rights enjoyed by authors and other owners of works (in the case of the ICTs, developments and services) that result from their creation.
-
-*DATA SOVEREIGNTY*
-
-The capacity of a natural or legal person to self-manage and take decisions over data about him/her that are held by a third party and to make that third party responsible for the use of those data.
-
-*TECHNOLOGICAL SOVEREIGNTY*
-
-Technological sovereignty entails a high degree of decision-making and self-management by an organisation or entity (in this case, the City Council) over the technology it uses in a given field, as well as the ability to maintain and develop it in accordance with its principles and needs.
-
-This approach contrasts with the classic dynamics of the supply of ICT services, which has been largely based on the use of licensed proprietary software.
-These dynamics have always favoured dependencies on technology providers.
-
-*FREEWARE*
-
-A type of software that is distributed for free but with a licence that prohibits other users from modifying or, in some cases, freely using the code.
-The user does not have access to the source code.
+Hence, in this guide, we will use the term open source as synonymous with free software.
 
 *PROPRIETARY SOFTWARE*
 
-"Proprietary software" is software that is distributed under a licence that is not free or open and which does not allow other users to freely modify or adapt and redistribute it.
-Its source code is generally not available to third parties.
+"Proprietary software" is any software distributed under licence that is not free or open source, and that does not allow free modification or adaptation and redistribution by another user.
+Generally-speaking, the source code is not available to third parties.
+
+*FREEWARE*
+
+A type of software that is distributed for free but has a usage licence that prohibits other users from modifying or, in some cases, freely using its code.
+The user has no access to the source code.
+
+**INDUSTRIAL PROPERTY**footnote:[Patents and models: Law 24/2015, of 24^th^ July, on Patents. Distinctive signs: law 17/2001, of 7^th^ December, on Trademarks. Industrial designs: Law 20/2003, of 7^th^ July, on the Legal protection of industrial design. Topographies of semiconductors: Law 11/1988, of 3^rd^ May, on the Legal protection of topographies of semiconductor products.]
+
+A set of exclusive rights that correspond to one person or entity over an invention or other immaterial creation produced by that person (patents, brands or industrial designs) which may be susceptible to use by third parties.
+
+Industrial property grants a series of exclusive rights that allow the person holding them to decide who can use them and how.
+
+These rights are granted via a procedure undertaken by the competent body (in Spain, the Spanish Patent and Trademark Office) and they are protected throughout the territory in which the body has power.
+
+
+**INTELLECTUAL PROPRETY**footnote:[_Under the provisions set out in Royal Legislative Decree 1/1996, of 12 April, approving the consolidated text of the Intellectual Property Law._]
+
+Intellectual property comprises the set of personal and property rights that correspond to the authors and other owners over the works they create (in the case of ICT, software developments and features).
+
+*INTEROPERABILITY*
+
+The ability of information systems, and therefore the procedures they support, to share data and enable the exchange of information and knowledge between them (RD 4/2010).
+
+* Organisational interoperability: the capacity of entities and the processes through which they carry out their activities to collaborate in order to achieve mutually agreed objectives relating to the services they provide.
+
+* Semantic interoperability: the ability to interpret automatically information exchanged in a reusable way by applications that were not involved in its creation.
+
+* Technical interoperability: connectivity between information technology systems and services, including aspects such as interfaces, interconnection, integration of data and services, presentation of information, accessibility and security and other aspects of a similar nature.
+
+* Interoperability over time: the ability for elements corresponding to various technological waves to interact; mainly for information that is conserved in an electronic format.
+
+Technical, semantic and organisational interoperability is highly regulated under legislation under Royal Decree 4/2010, of 8^th^ January, regulating the National Interoperability Framework in the field of e-Government.
+
+*MARKETPLACE*
+
+A technology platform that will facilitate relations in the field of public procurement between service or product vendors and buyers, in this case the municipal authorities.
+
+The purpose of this platform is as follows:
+
+* To become a point of reference and access to all the information associated with municipal public procurement (information on the municipal procurement strategy, the planning of future procedures, ongoing procedures, tender results, etc.).
+
+* To facilitate the procurement of ICT goods and services for all municipal bodies and entities via an electronic market, with the ultimate goal of completing a transaction under the best possible conditions.
+
+* To facilitate communication between the public authorities and its vendors.
+
+* Furthermore, the platform seeks to offer information to the public, make public procurement processes more visible and increase transparency.
+
+*NEW ECONOMY*
+
+Also known as the knowledge economy or digital economy, it is dominated by the use of information and especially the data (becoming one of the most valuable and precious goods) generated through the use of digital services and technology or communication products.
+
+Within this new context, in which the Internet stands out as the main production channel and tool, companies are valued for their ideas, information or capacity to do more with less.
+On the one hand, business can be done with the whole world and, on the other, the level of interactivity offered by the Internet allows products to be adapted to consumer tastes at great speed.
+However, the avalanche of information and possibilities offered by the Internet leads to the emergence of new intermediaries, those known as infomediaries, which bring added value by organising information for users.
+
+*OPEN DATA*
+
+In the public-sector fieldfootnote:[_Law 37/2007 on the reuse of public sector information_], open data refers to the data sets made available to the public for reuse and republication with the main goal being to make maximum use of available public resources by presenting the information generated or kept by public authorities and enabling access and reuse for the benefit of any interested person or entity.
+
+This potentially high-value public information can relate to any topic or refer to any issue (pictographic documents, statistical data, study or analysis results, information on public services, etc.).
+Companies, researchers, other public institutions or the general public can make use of the information resources for any purpose.
+
+The goal is to maximise the economic and social possibilities offered by the data that is stored: foster management transparency, improve citizen services and generate business activities and social impact while always in search of efficient governance.
+
+
+*OPEN STANDARDS*
+
+An open standard is a standard that meets the following conditions:
+
+[loweralpha]
+. It is public and its use is available for free or at a cost that does not prevent accessibility.
+. Its use and application do not depend on the payment for an intellectual or industrial property right.
+
+(Art. 11 RD 4/2010)
+
+As regards those standards not included in the catalogue legally established as “open”, the IMI adopts the following definition:
+
+* *Free to use and free of charge*.
+Any intellectual and industrial property rights required for implementing the standard (including “essential” patents) must be made available to everyone irrevocably and for free (royalty-free).
+Reversible agreements on royalties and variable price formulae are not acceptable, as they can create problems for free and open source software and for innovation.
+In principle, they will not be used unless their use is justified by law.
+Clear authorisation must exist to allow the use of intellectual or industrial property rights in free or open source software projects.
+Furthermore, the rights in the text of the standard must allow it to be reproduced and redistributed without restriction or need to sign an agreement.
+
+* *Non-discrimination*.
+The standard must not establish technical or legal clauses that limit its use by certain groups or to a specific purpose.
+
+* *Complete information*.
+The information available is sufficiently complete for multiple implementations of the standard, within a commercial competition framework, so that these implementations are interoperable.
+The components, interfaces, extensions and protocols must meet the same conditions as the standard in order to prevent, in practice, the market being dominated by applications or solutions that implement restricted versions of the standard.
+
+* *Open collaboration.*
+Development of the standard must take place within a transparent process of consensus, open to effective participation by all stakeholders.
+Preferably, governance of the standard is the responsibility of a non-profit organisation.
+Under no circumstances will standards that are dominated by one organisation or group be accepted.
+Standards that are actively and permanently maintained are preferred.
+
+*PRELIMINARY PROJECTS OR CONSULTATIONS WITH THE MARKET*
+
+A series of measures aimed at maintaining a dialogue between the contracting authorities and the market prior to launching a contracting process.
+The purpose of this practice is to facilitate a better understanding of the needs of vendors, to study and assess the broadest possible range of solutions that exist in the market, and to suitably define the characteristics of the tender.
+
+These processes are especially recommended when the services to be contracted are particularly complex (and, therefore, so is the solution) or require innovative solutions.
+
+*SOLVENCY CRITERIA*
+
+A set of economic, organisational and technical criteria that accredit the capability of a bidding company and determine its viability for providing a certain product or performing a service.
+
+*TECHNOLOGICAL SOVEREIGNTY*
+
+Technological sovereignty implies a high level of decision-making and self-management powers for an organisation or entity (in this case, the City Council) over the technology used in a certain field, as well as the ability to maintain and evolve the same according to its principles and needs.
+
+This approach contrasts with the traditional ICT service supply dynamic, which has partly been based on the use of licensed proprietary software.
+
+These dynamics have led to a dependency on technology vendors.
+
+*VENDOR LOCK-IN*
+
+In the field of ICTs, a situation in which the vendor of a given technology product or service is in a situation of power over the buyer given that, once the product is implemented or service provided, the customer is not able to switch product or vendor due to the cost in time and money that the change may imply or due to a lack of viable alternatives.
+
+This situation may arise from various factors, such as:
+
+* Use of proprietary software only accessible to the vendor that can therefore only be evolved or maintained under guarantee by the same vendor.
+
+* Lack of technical training of the customer or organisation that does not allow the service to be taken over using internal resources once it has been developed.

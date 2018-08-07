@@ -1,3 +1,4 @@
+[appendix]
 = References
 :experimental:
 :icons: font
