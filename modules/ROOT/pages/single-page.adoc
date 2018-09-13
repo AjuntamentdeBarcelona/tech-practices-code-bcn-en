@@ -28,7 +28,7 @@ endif::[]
 
 include::aim-and-scope.adoc[]
 
-include::principals.adoc[]
+include::principles.adoc[]
 
 include::guidelines.adoc[]
 
