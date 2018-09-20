@@ -45,7 +45,7 @@ http://www.bcn.cat/geoportal/es/estandards.html[_http://www.bcn.cat/geoportal/es
 
 * Open Standards Requirement for Software, _https://opensource.org/osr_
 
-* Definition of Free Software: https://http://www.gnu.org/philosophy/free-sw.ca.html[_www.gnu.org/philosophy/free-sw.ca.html_] (original in English at https://www.gnu.org/philosophy/free-sw.en.html[_https://www.gnu.org/philosophy/free-sw.en.html_]).
+* Definition of Free Software: _https://www.gnu.org/philosophy/free-sw.ca.html_ (original in English at _https://www.gnu.org/philosophy/free-sw.en.html_).
 
 * Definition of Open Source: _https://opensource.org/osd_
 
