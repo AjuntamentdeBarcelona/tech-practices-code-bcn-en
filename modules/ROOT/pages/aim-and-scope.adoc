@@ -12,7 +12,7 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 == Aim
 
-This document constitutes the Code of Technological Practices which sets out the agile digital transformation strategy for Barcelona City Council, in a practical format and under the city’s digital services standards issued in September 2017.
+This document constitutes the Technology Code of Practice which sets out the agile digital transformation strategy for Barcelona City Council, in a practical format and under the city’s digital services standards issued in September 2017.
 
 This Code consists mainly of a list of clear and direct principles and requirements, enabling a rapid understanding of the various elements of the digital transformation being carried out in Barcelona.
 It aims to enable those in charge of governance and management of digital service projects to ensure that they are in line with Barcelona City Council’s strategy in this area.
@@ -24,7 +24,7 @@ The United Kingdom, the United States, Sweden and the Netherlands, among many ot
 
 == Scope and application
 
-This Code of Technological Practices applies to the management and governance of technology and innovation projects carried out within the agile digital transformation Plan, not only for the Municipal Institute of Information Technology (IMI) but also for other entities and departments that are accountable to Barcelona City Council.
+This Technology Code of Practice applies to the management and governance of technology and innovation projects carried out within the agile digital transformation Plan, not only for the Municipal Institute of Information Technology (IMI) but also for other entities and departments that are accountable to Barcelona City Council.
 It also covers the design and construction of all the City Council’s digital services, understood as services for the management and delivery of information through digital platforms and devices.
 
 It is aimed at all the leaders and managers of the municipal group’s business units, programme administrators and staff involved in putting this strategy into action.
@@ -47,6 +47,6 @@ The document is divided up into a set of general principles, backed by the guide
 
 This document complements but does not replace any of the organisation’s policies or regulations, municipal or otherwise.
 
-This Code of Technological Practices is accompanied by two supporting documents to promote the Agile Digital Transformation Plan: The Agile Methodologies Guide and the Technological Sovereignty Guide.
+This Technology Code of Practice is accompanied by two supporting documents to promote the Agile Digital Transformation Plan: The Agile Methodologies Guide and the Technological Sovereignty Guide.
 In addition, the Plan is being implemented through the City Council’s Procurement Guides, particularly the Technology Procurement Guide and the Innovative Procurement Guide.
 As for responsible and ethical data management, a key element of the Agile Digital Transformation Plan (particularly the Open Data strategy and the Data Commons, Data Driven projects and interoperability based on free data formats), the corresponding guidelines and their implementation will be developed in a new _Government Measure on the Strategy for Responsible and Ethical Data Management at Barcelona City Council_, which will specify the required technical details, processes and responsibilities.

@@ -202,7 +202,7 @@ Where a trademark is registered to identify a software project freed by the City
 
 == Responsible and ethical data management
 
-To meet the objective of responsible and ethical data management in the framework of the Digital Service Standards, the following guidelines under this Code of Technological Practices shall apply:
+To meet the objective of responsible and ethical data management in the framework of the Digital Service Standards, the following guidelines under this Technology Code of Practice shall apply:
 
 
 === SCOPE
