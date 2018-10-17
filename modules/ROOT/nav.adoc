@@ -2,4 +2,4 @@
 * xref:principles.adoc[Principles for designing and developing digital services]
 * xref:guidelines.adoc[Guidelines for designing and implementing digital services]
 * xref:references.adoc[References]
-* xref:glossary:ROOT:glossary.adoc[Glossary]
+// * xref:glossary:ROOT:glossary.adoc[Glossary]
