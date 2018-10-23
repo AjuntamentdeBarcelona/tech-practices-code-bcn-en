@@ -35,6 +35,4 @@ include::guidelines.adoc[]
 // (4/4) ADD BELOW THE LIST OF APPENDIXES. IMPORTANT: PUT A BLANK LINE BETWEEN
 // INCLUDES.
 
-include::glossary.adoc[]
-
 include::references.adoc[]
