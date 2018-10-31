@@ -1,7 +1,9 @@
 // tag::metadata[]
 // IMPORTANT: the following block (until "end::metadata[]" appears) must be
 // contiguous (no blank lines).
-// MANDATORY. Two-letter code of the language.
+//
+// MANDATORY. A language label supported by Asciidoctor,
+// https://asciidoctor.org/docs/user-manual/#customizing-labels
 :lang: en
 //
 // MANDATORY. Numeric revision in X.Y.Z format, where X, Y and Z are numbers,
