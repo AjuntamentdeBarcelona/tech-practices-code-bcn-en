@@ -10,6 +10,7 @@ ifndef::env-site,env-github[]
 endif::[]
 :toclevels: 2
 
+:doctitle: _title
 = {doctitle}
 
 :sectnums!:
