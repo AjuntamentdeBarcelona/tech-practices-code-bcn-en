@@ -1,14 +1,8 @@
 [appendix]
 = References
-:experimental:
-:icons: font
-:page-partial:
-:source-highlighter: highlightjs
-
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
-
 include::{partialsdir}/README.adoc[tag=metadata]
 
 The guides cited this Code have a detailed bibliography for each area (Barcelona City Council Guides on Agile Methodologies and Technological Sovereignty).

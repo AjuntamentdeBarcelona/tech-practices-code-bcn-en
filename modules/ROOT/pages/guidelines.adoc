@@ -1,13 +1,7 @@
 = Guidelines for designing and implementing digital services
-:experimental:
-:icons: font
-:page-partial:
-:source-highlighter: highlightjs
-
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
-
 include::{partialsdir}/README.adoc[tag=metadata]
 
 The following guidelines, divided into three areas, must be followed when designing and implementing digital services:
