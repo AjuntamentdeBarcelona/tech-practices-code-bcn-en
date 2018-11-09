@@ -25,7 +25,7 @@
 :_subtitle:
 //
 // MANDATORY. Comma-separated list of names.
-:authors: Barcelona City Council
+:authors: Francesca Bria, Paco Rodríguez, Malcolm Bain, Joan Batlle, Ana Bastida Vila, Xabier Barandiaran Fernández, Marius Boada Pla, Guillem Marpons, Xavier Roca Vilalta, Xavier Bes Segovia, Josep Carles Collazos, Joan Domènech Bas, Oscar Sanz García, Carlos Echevarría Meseguer, Lluís Girona Frisach, Anna Majó Crespo, Tomás Gea Calza, Javier Ruiz, Gemma Galdon, John Michaelides, Esther Bretschneider
 //
 // OPTIONAL. Comma-separated list of names.
 :_contributors:
