@@ -1,0 +1,12 @@
+{
+  "name": "decidim-docs-site",
+  "private": true,
+  "devDependencies": {
+    "@antora/cli": "^2.0.0-beta.1",
+    "@antora/site-generator-default": "^2.0.0-beta.1",
+    "gulp": "^4.0.0",
+    "request": "^2.88.0",
+    "to-regex": "^3.0.2",
+    "yamljs": "^0.3.0"
+  }
+}
