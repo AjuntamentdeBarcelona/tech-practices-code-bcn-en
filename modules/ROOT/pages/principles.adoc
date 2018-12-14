@@ -8,7 +8,7 @@ The following general principles and guidelines form the basis of Barcelona City
 
 {counter:principle}. Compliance with the digital services standards and responsible data management::
 
-Every new digital service must follow the City Council’s Digital Services Standards and the Responsible Data Management Strategy.
+Every new digital service must follow the City Council’s Digital Services Standards and the Responsible Data Management Strategy.TEST.
 
 {counter:principle}. Aimed at citizens::
 
