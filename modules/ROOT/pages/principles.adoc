@@ -4,6 +4,8 @@ include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
+*TESTING PR PREVIEW*
+
 The following general principles and guidelines form the basis of Barcelona City Council’s agile digital transformation Strategy and digital services standards, in terms of their design, development and maintenance.
 
 {counter:principle}. Compliance with the digital services standards and responsible data management::
