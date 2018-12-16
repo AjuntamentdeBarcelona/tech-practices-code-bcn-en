@@ -1,0 +1,29 @@
+distribution: xenial
+language: node_js
+node_js:
+  - "10"
+services:
+  - docker
+before_script:
+  - cd preview
+  - npm install
+  - export SUFFIX=".git"
+  - export REPOSITORY_URL=$TRAVIS_REPO_SLUG$SUFFIX
+  - echo $REPOSITORY_URL
+  - gulp playbook
+  - docker build -t wp .
+script:
+  - node_modules/.bin/antora --stacktrace --pull --html-url-extension-style=indexify site.patched.yml
+  - docker run --mount type=bind,source="$(pwd)"/build,target=/build wp weasyprint -p /build/site/en/tech-practices/0.1/single-page/index.html /build/doc.pdf
+  - ls -l build
+before_deploy:
+  - export TRAVIS_TAG=latest
+deploy:
+  provider: releases
+  api_key: $GITHUB_TOKEN
+  file:
+    - build/doc.pdf
+  skip_cleanup: true
+  on:
+    repo: $TRAVIS_REPO_SLUG
+  overwrite: true
