@@ -1,6 +1,6 @@
 [build]
-  base = "netlify/"
-  publish = "build/site/"
+  base = "preview/"
+  publish = "preview/build/site/"
   command = "gulp playbook && node_modules/.bin/antora --stacktrace --pull --html-url-extension-style=indexify site.patched.yml"
 
 [build.environment]
