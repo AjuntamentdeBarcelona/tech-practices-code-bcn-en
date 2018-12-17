@@ -4,7 +4,7 @@ include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-== Aim
+== AimXXXXXXXXXXXXXXXXX
 
 This document constitutes the Technology Code of Practice which sets out the agile digital transformation strategy for Barcelona City Council, in a practical format and under the city’s xref:{lang}/digital-services:ROOT:index.adoc[digital services standards] issued in September 2017.
 
