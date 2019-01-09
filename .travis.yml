@@ -4,7 +4,16 @@ node_js:
   - "10"
 services:
   - docker
+addons:
+  apt:
+    packages:
+    - jq
 before_script:
+  - pip install --user yq
+  - export ANTORA_COMPONENT_NAME="$(yq -r .name antora.yml)"
+  - export ANTORA_COMPONENT_VERSION="$(yq -r .version antora.yml)"
+  - export COMPONENT_NAME=$(yq -r '.name|.[3:]|sub("-";"_";"g")' antora.yml)
+  - export COMPONENT_LANGUAGE=$(yq -r '.name|.[0:2]' antora.yml)
   - cd preview
   - npm install
   - export SUFFIX=".git"
@@ -13,8 +22,12 @@ before_script:
   - gulp playbook
   - docker build -t wp .
 script:
-  - node_modules/.bin/antora --stacktrace --pull --html-url-extension-style=indexify site.patched.yml
-  - docker run --mount type=bind,source="$(pwd)"/build,target=/build wp weasyprint -p /build/site/en/tech-practices/0.1/single-page/index.html /build/doc.pdf
+  - node_modules/.bin/antora --stacktrace --fetch --html-url-extension-style=indexify site.patched.yml
+  - export HTML_FILE="$ANTORA_COMPONENT_NAME/$ANTORA_COMPONENT_VERSION/PDF/index.html"
+  - export PDF_FILE="/build/doc.pdf"
+  - export DOCKER_COMMAND="weasyprint -p $HTML_FILE $PDF_FILE"
+  - echo $DOCKER_COMMAND
+  - docker run --mount type=bind,source="$(pwd)"/build,target=/build --workdir /build wp $DOCKER_COMMAND
   - ls -l build
 before_deploy:
   - export TRAVIS_TAG=latest

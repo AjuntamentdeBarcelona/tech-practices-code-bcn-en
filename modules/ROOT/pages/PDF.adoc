@@ -3,14 +3,12 @@ include::{partialsdir}/README.adoc[tag=metadata]
 :doctitle: {_title}
 :page-layout: pdf
 :toc: macro
+:revdate: {localdatetime}
 
-[.my-authors-class]
-{authors}
+// [.my-authors-class]
+Authors: {authors}
 
-[.my-revnumber-class]#v{revnumber}# -- [.my-revdate-class]#{revdate}#
-
-[.my-other-class]
-Other things in the cover.
+[.my-revnumber-class]#v{revnumber}#, [.my-revdate-class]#{revdate}#
 
 
 [.page-second]
@@ -27,7 +25,7 @@ toc::[]
 
 :leveloffset: +1
 
-:sectnums!:
+:!sectnums:
 
 // Non-numbered sections here
 
@@ -43,7 +41,7 @@ include::guidelines.adoc[]
 [appendix]
 include::references.adoc[]
 
-:sectnums!:
+:!sectnums:
 
 [.discrete.page-end-notes]
 = End notes
