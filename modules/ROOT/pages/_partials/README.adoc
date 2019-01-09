@@ -65,6 +65,7 @@
 //
 // MANDATORY. DO NOT CHANGE THIS.
 :page-lang: {lang}
+:page-partial:
 // end::metadata[]
 
 
