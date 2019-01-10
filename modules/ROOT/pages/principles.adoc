@@ -1,4 +1,4 @@
-= Principles for designing and developing digital services
+= Principles for designing and developing other stuff
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
