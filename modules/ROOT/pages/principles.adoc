@@ -101,3 +101,6 @@ Citizens must be able to control their data, the digital divide must be minimise
 
 Municipal institutions must be open, transparent and responsible towards the public.
 Municipal information and documents must be accessible, usable and analysable, so as to promote entrepreneurship, social and digital innovation, employment and excellence in scientific research, as well as improving the lives of Barcelona's residents and contributing significantly to the city's stability and prosperity.
+
+{counter:principle}. My new principle::
+Here the text of the principle ...
