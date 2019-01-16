@@ -14,11 +14,14 @@ before_script:
   - export ANTORA_COMPONENT_VERSION="$(yq -r .version antora.yml)"
   - export COMPONENT_NAME=$(yq -r '.name|.[3:]|sub("-";"_";"g")' antora.yml)
   - export COMPONENT_LANGUAGE=$(yq -r '.name|.[0:2]' antora.yml)
+  # Following line creates a version name that concats "v", $ANTORA_COMPONENT_VERSION, and
+  # ".0", or a tag vX.Y.Z+1 if the largest existing version is vX.Y.Z.
+  - export DOC_VERSION="$(echo $ANTORA_COMPONENT_VERSION).$(echo "$({ echo v$(echo $ANTORA_COMPONENT_VERSION).0 ; git tag -l v$(echo $ANTORA_COMPONENT_VERSION).* --sort=v:refname ; } | tail -n 1 | grep -o '[[:digit:]]*$') + 1" | bc)"
+  - echo "DOC_VERSION"=$DOC_VERSION
   - cd preview
   - npm install
-  - export SUFFIX=".git"
-  - export REPOSITORY_URL=$TRAVIS_REPO_SLUG$SUFFIX
-  - echo $REPOSITORY_URL
+  # The gulp command below relies on variable $REPOSITORY_URL
+  - export REPOSITORY_URL=${TRAVIS_REPO_SLUG}.git
   - gulp playbook
   - docker build -t wp .
 script:
@@ -28,15 +31,20 @@ script:
   - export DOCKER_COMMAND="weasyprint -p $HTML_FILE $PDF_FILE"
   - echo $DOCKER_COMMAND
   - docker run --mount type=bind,source="$(pwd)"/build,target=/build --workdir /build wp $DOCKER_COMMAND
-  - ls -l build
 before_deploy:
-  - export TRAVIS_TAG=latest
+  - export TRAVIS_TAG="v$DOC_VERSION"
+  - echo "barcelona_${COMPONENT_NAME}_${DOC_VERSION}.${COMPONENT_LANGUAGE}.pdf" > filename.txt
 deploy:
   provider: releases
   api_key: $GITHUB_TOKEN
   file:
     - build/doc.pdf
+    - filename.txt
   skip_cleanup: true
   on:
     repo: $TRAVIS_REPO_SLUG
-  overwrite: true
+  overwrite: false
+after_deploy:
+  - git config --local user.name $(git log -1 --pretty=format:'%cn')
+  - git config --local user.email $(git log -1 --pretty=format:'%ce')
+  - git tag $TRAVIS_TAG
