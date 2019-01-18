@@ -23,14 +23,13 @@ before_script:
   # The gulp command below relies on variable $REPOSITORY_URL
   - export REPOSITORY_URL=${TRAVIS_REPO_SLUG}.git
   - gulp playbook
-  - docker build -t wp .
 script:
   - node_modules/.bin/antora --stacktrace --fetch --html-url-extension-style=indexify site.patched.yml
   - export HTML_FILE="$ANTORA_COMPONENT_NAME/$ANTORA_COMPONENT_VERSION/PDF/index.html"
   - export PDF_FILE="/build/doc.pdf"
   - export DOCKER_COMMAND="weasyprint -p $HTML_FILE $PDF_FILE"
   - echo $DOCKER_COMMAND
-  - docker run --mount type=bind,source="$(pwd)"/build,target=/build --workdir /build wp $DOCKER_COMMAND
+  - docker run --mount type=bind,source="$(pwd)"/build,target=/build --workdir /build gmarpons/weasyprint:44-edge $DOCKER_COMMAND
 before_deploy:
   - export TRAVIS_TAG="v$DOC_VERSION"
   - echo "barcelona_${COMPONENT_NAME}_${DOC_VERSION}.${COMPONENT_LANGUAGE}.pdf" > filename.txt
