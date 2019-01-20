@@ -133,7 +133,7 @@ The preparation stage of contracts must show that an exhaustive search has been 
 {counter:guidelines_sover}. Technical and functional specifications::
 
 Proposed projects must not include any specification that prevents solutions with free technologies from being proposed, nor must they mention specific products or suppliers unless they are compatible with existing technologies, in accordance with the Guide to Technological Sovereignty.
-Architecture and interoperability requirements, and right and ability to modify and reuse the software of digital systems and services, will be regarded as technical features and specifications.
+Architecture and interoperability requirements, and the right and ability to modify and reuse the software of digital systems and services, will be regarded as part of the technical features and specifications.
 
 {counter:guidelines_sover}. Calculation of costs::
 
@@ -181,14 +181,14 @@ Where projects developed by City Council staff and/or providers improve or trans
 City Council projects will establish a legal framework for clearly determining and managing intellectual property rights over software developments.
 Depending on each case, agreements will establish an ownership model, including options for assigning rights to the City Council or the IMI, leaving them in the hands of the provider, or assigning them to the entities that manage the relevant code for the project, as long as those relating to free projects are available under a free software licence.
 
-{counter:guidelines_sover}. Legal management of software-development projects::
-
-Projects must establish processes and documents for managing the legal aspects relating to intellectual property and software licences (in particular, in relation to contributions, licences over components used in development and other dependencies of the software), and in doing so, use best practices and standard or widespread-use tools in the sector, to guarantee the traceability and integrity of the code.
-
 {counter:guidelines_sover}. Licences for freeing software::
 
 Software produced within the framework of the City Council’s digital services projects, including software resulting from procurement agreements, will be made publicly available under a free software licence that complies with applicable regulations.
 The City Council will establish the criteria and requirements to determine the type of licence to use for each project.
+
+{counter:guidelines_sover}. Legal management of software-development projects::
+
+Projects must establish processes and documents for managing the legal aspects relating to intellectual property and software licences (in particular, in relation to contributions, licences over components used in development and other dependencies of the software), and in doing so, use best practices and standard or widespread-use tools in the sector, to guarantee the traceability and integrity of the code.
 
 {counter:guidelines_sover}. Trademarks::
 
@@ -278,7 +278,7 @@ When applicable, encryption algorithms, data anonymization or pseudonymisation m
 
 {counter:guidelines_ethic}. Impact assessments::
 
-Business units will carry out privacy impact assessments aimed preventively at ensuring that, where data processing my involve especially serious risks, the necessary measures are taken to reduce, as far as possible, the risk of damaging or prejudicing people or of negatively affecting their rights and freedoms, blocking or restricting their exercise or content.
+Business units will carry out privacy impact assessments aimed preventively at ensuring that, where data processing may involve especially serious risks, the necessary measures are taken to reduce, as far as possible, the risk of damaging or prejudicing people or of negatively affecting their rights and freedoms, blocking or restricting their exercise or content.
 
 {counter:guidelines_ethic}. Data security::
 
