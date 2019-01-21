@@ -45,5 +45,5 @@ include::references.adoc[]
 
 :!sectnums:
 
-[.discrete.page-end-notes]
-= End notes
+// [.discrete.page-end-notes]
+// = End notes
