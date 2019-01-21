@@ -8,9 +8,13 @@ include::{partialsdir}/README.adoc[tag=metadata]
 [.pdf-authors-version]
 --
 [.pdf-authors]
-Authors: {authors}
+_Authors_: {authors}
+
+[.pdf-authors]
+_Reviewers_: {_reviewers}
+
 [.pdf-version]
-[.my-revnumber-class]#v{revnumber}#, [.my-revdate-class]#{revdate}#
+v{revnumber}, {revdate}
 --
 
 // [.page-second]
