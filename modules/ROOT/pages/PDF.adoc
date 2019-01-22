@@ -8,10 +8,10 @@ include::{partialsdir}/README.adoc[tag=metadata]
 [.pdf-authors-version]
 --
 [.pdf-authors]
-_Authors_: {authors}
+_Authors_: {authors}.
 
 [.pdf-authors]
-_Reviewers_: {_reviewers}
+_Reviewers_: {_reviewers}.
 
 [.pdf-version]
 v{revnumber}, {revdate}
@@ -36,7 +36,6 @@ toc::[]
 // Non-numbered sections here
 
 :sectnums:
-
 
 include::aim-and-scope.adoc[]
 
