@@ -41,6 +41,13 @@ The document is divided up into a set of general principles, backed by the guide
 
 This document complements but does not replace any of the organisation’s policies or regulations, municipal or otherwise.
 
-This Technology Code of Practice is accompanied by two supporting documents to promote the Agile Digital Transformation Plan: The Agile Methodologies Guide and the Technological Sovereignty Guide.
-In addition, the Plan is being implemented through the City Council’s Procurement Guides, particularly the Technology Procurement Guide and the Innovative Procurement Guide.
-As for responsible and ethical data management, a key element of the Agile Digital Transformation Plan (particularly the Open Data strategy and the Data Commons, Data Driven projects and interoperability based on free data formats), the corresponding guidelines and their implementation will be developed in a new _Government Measure on the Strategy for Responsible and Ethical Data Management at Barcelona City Council_, which will specify the required technical details, processes and responsibilities.
+This Technology Code of Practice is accompanied by three supporting documents to promote the Agile Digital Transformation Plan:
+
+* xref:en/agile-methodologies:ROOT:introduction.adoc[Agile Methodologies Guide]
+* xref:en/tech-sovereignty:ROOT:introduction.adoc[Technological Sovereignty Guide]
+* xref:en/data-management:ROOT:summary.adoc[Government Measure on Ethical Data Management]
+
+In addition, the Plan is being implemented through the City Council’s Procurement Guides, particularly the following documents:
+
+* xref:en/ict-procurement:ROOT:context.adoc[ICT Procurement Guide]
+* xref:en/innovative-procurement:ROOT:innovating.adoc[Innovative Public Procurement Guide]

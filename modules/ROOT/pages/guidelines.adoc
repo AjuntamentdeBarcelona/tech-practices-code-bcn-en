@@ -256,6 +256,7 @@ The AD must identify which roles may have access to systems and which profiles h
 {counter:guidelines_ethic}. Interoperability of data and formats::
 
 Business units will promote the opening up of municipal data (Open Data) and interoperability based on free formats, subject to existing technical and legal requirements, to increase the public’s access to municipal information and make operations more efficient, reduce costs and improve services for citizens.
+Open data will be provided in a machine readable format (i.e. CSV, XML, JSON or other similar formats that facilitate fine-grained automatic data processing and transformation), and updated regularly.
 
 {counter:guidelines_ethic}. Risk management::
 
