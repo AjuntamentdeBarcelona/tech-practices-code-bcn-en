@@ -25,13 +25,13 @@
 :_subtitle:
 //
 // MANDATORY. Comma-separated list of names.
-:authors: Barcelona City Council
+:authors: Francesca Bria, Paco Rodríguez, Malcolm Bain, Joan Batlle, Ana Bastida Vila, Xabier Barandiaran Fernández, Marius Boada Pla, Guillem Marpons, Xavier Roca Vilalta, Xavier Bes Segovia, Josep Carles Collazos, Joan Domènech Bas, Oscar Sanz García, Carlos Echevarría Meseguer, Lluís Girona Frisach, Anna Majó Crespo, Tomás Gea Calza, Javier Ruiz, Gemma Galdon, John Michaelides, Esther Bretschneider
 //
 // OPTIONAL. Comma-separated list of names.
 :_contributors:
 //
 // OPTIONAL. Comma-separated list of names.
-:_reviewers: Richard Stallman, Roberto di Cosmo, Javier Ruiz, Boris van Hoytema
+:_reviewers: Richard Stallman, Roberto di Cosmo, Javier Ruiz, Boris van Hoytema, Ivan Mingueza
 //
 // OPTIONAL. Publication date of the revision. When the default value
 // ("{docdate}") is used, the current date in format YYYY-MM-DD is automatically

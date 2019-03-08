@@ -26,7 +26,7 @@ It is not necessary for all the details to be defined in the projects' initial s
 {counter:principle}. Options analysis::
 
 Every new service must begin with a strategic analysis of the options, to determine whether it has to be built within the municipal organisation, by external providers or by a mixed team involving both.
-Similarly, it must establish the development method to be used (by default, Agile), as will whether free software will be created, used or reused.
+Similarly, it must establish the development method to be used (by default, Agile), and whether free software will be created, used or reused.
 Part of this process requires looking at the implications in choosing technologies and methodologies as regards the management and training of the City Council's internal and external staff.
 
 {counter:principle}. Principle of simplicity::
@@ -74,12 +74,12 @@ Digital services will be conceived from their initial stage in both Catalan and 
 {counter:principle}. Security::
 
 Services and projects will be designed taking security into account from their initial conceptualisation.
-Services must follow the corporate security Policy and standards based on standard ISO27002 and the national security Framework.
+Services must follow the corporate security Policy and standards based on standard ISO27002 and the National Security Framework.
 
 {counter:principle}. Procurement::
 
 The acquisition and procurement of technological services will apply Barcelona City Council's procurement guides, namely, the Social Public Procurement Guide and the Environmental Public Procurement Guide from the Mayoral Decree on sustainable public procurement (S1/D/2017-1271 of 24 April), and the Guides on Technology Procurement and Innovative Procurement.
-New services will be procured as a matter of priority under procurement-framework agreements.
+By default new services will be procured through procurement-framework agreements.
 +
 To support the principle of technological sovereignty of the city, services must avoid dependency on a sole provider; this is also a key factor in increasing the capacity for innovation in public services.
 Systems integration must be carried out by a supplier that is different from the manufacturers of these systems.
@@ -95,7 +95,7 @@ The IMI will incorporate free software and standards into its technological serv
 {counter:principle}. Civic sovereignty of data::
 
 Citizens and the common good must be at the heart of all technological plans and platforms within the Barcelona municipality that collect, create or manage data and other information.
-Citizens must be able to control their data, the digital divide must be minimised and discriminatory or unethical practices towards the data prevented.
+Citizens must be able to control their data and their privacy standards, the digital divide must be minimised and discriminatory or unethical practices towards the data prevented.
 
 {counter:principle}. Data access and reuse, innovation::
 

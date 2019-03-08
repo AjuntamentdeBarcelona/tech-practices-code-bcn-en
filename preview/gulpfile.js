@@ -31,7 +31,7 @@ function patchPlaybook(cb) {
     }
   )
   playbookContent.content.sources = sourcesNew
-  playbookContent.output.dir = './build/site'
+  playbookContent.output.dir = './build'
   fs.writeFileSync('site.patched.yml', yaml.stringify(playbookContent))
   cb()
 }

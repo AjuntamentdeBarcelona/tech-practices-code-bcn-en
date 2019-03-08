@@ -45,3 +45,11 @@ http://www.bcn.cat/geoportal/es/estandards.html[_http://www.bcn.cat/geoportal/es
 
 * Paris Declaration of the Open Government Partnership, available online at
 _https://paris-declaration.ogpsummit.org/_
+
+== Reference list of related documents
+
+* Reference list of the Agile Methodologies Guide, https://www.barcelona.cat/digitalstandards/en/agile-methodologies/references
+
+* Reference list of the Technological Sovereignty Guide, https://www.barcelona.cat/digitalstandards/en/tech-sovereignty/references
+
+* Reference list of the Government Measure on Ethical Data Management, https://www.barcelona.cat/digitalstandards/en/data-management/references
