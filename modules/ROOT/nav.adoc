@@ -11,4 +11,5 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 .$$BOTTOM
 * xref:{lang}/glossary:ROOT:glossary.adoc[Guides glossary]
+* xref:index.adoc[Authors and other document information]
 * link:{attachmentsdir}/barcelona_tech_practices_{revnumber}.{lang}.pdf[Download PDF]
