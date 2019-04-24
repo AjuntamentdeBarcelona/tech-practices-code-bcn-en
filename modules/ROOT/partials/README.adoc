@@ -68,9 +68,6 @@
 :page-partial:
 // end::metadata[]
 
-
-// tag::metadata-table[]
-
 = {_title}
 
 ifeval::["{_subtitle}" != ""]
